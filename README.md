@@ -19,4 +19,10 @@ Estaremos à disposição para qualquer dúvida.
 
 Acesse o curso também pelo Smartphone ou Tablet com nossas apps gratuitas para iOS e Android, disponíveis na Apple Store e na Google Play. Desejamos a você uma incrível jornada de aprendizagem!
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/f1538a77a0b5e002892de47a598881b211c6fe02)
+
+## 1.02 Por que devemos aprender a programar?
+
+[Vídeo](https://youtu.be/nt7JqivQsW0)
+
 [Commit]()
