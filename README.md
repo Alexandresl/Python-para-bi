@@ -37,4 +37,10 @@ Acesse o curso também pelo Smartphone ou Tablet com nossas apps gratuitas para 
 
 [Vídeo](https://youtu.be/W-1UPjjxNPQ)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/c22bce411ba31e42225da9fc93c7613fc849b660)
+
+## 1.05 Suporte e canais de comunicação
+
+**E-mail**: **suporte@datascienceacademy.com.br**
+
 [Commit]()
