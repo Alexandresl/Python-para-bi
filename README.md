@@ -67,4 +67,19 @@ Acesse o curso também pelo Smartphone ou Tablet com nossas apps gratuitas para 
 
 [Vídeo](https://youtu.be/qtGpdith0yI)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/f959c4567781c6ba337ad8e1c1d23885494e92b9)
+
+## 1.10 Conteúdo programático - Nível Introdutório
+
+* Nível Introdutório
+  * 1. Introdução
+  * 2. Primeiros passos com a linguagem Python - Visão geral, instalação e ChatGPT
+  * 3. Linguagem Python Nível Introdutório - Introdução à lógica de programação
+  * 4. Linguagem Python Nível Introdutório - Variáveis, tipos e estruturas de dados
+  * 5. Linguagem Python Nível Introdutório - Loops, condicionais, métodos e funções
+  * 6. Linguagem Python Nível Introdutório - Tratamento de arquivos, módulos, pacotes e funções Built-in
+  * 7. Projeto 1 e Avaliação 1
+
+[Vídeo](https://youtu.be/rPMpEIQgw9E)
+
 [Commit]()
