@@ -49,4 +49,10 @@ Acesse o curso também pelo Smartphone ou Tablet com nossas apps gratuitas para 
 
 [Link](./Termos-e-condicoes-de-uso.md)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/e26aac48e24f1176894a7b0e1c52199c1c5946ae)
+
+## 1.07 Introdução ao curso
+
+[Vídeo](https://youtu.be/sd7IJUSmz94)
+
 [Commit]()
