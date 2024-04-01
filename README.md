@@ -182,4 +182,10 @@ A Linguagem Python é interpretada. Para usarmos a linguagem temos que usar um i
 
 [Vídeo](https://youtu.be/t62pi_vmUiE)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/3a5916b3a5b1725ee931766b40674bbd0df1e715)
+
+## 2.03 Versões da linguagem Python
+
+[Vídeo](https://youtu.be/frWz3Jw7ZC4)
+
 [Commit]()
