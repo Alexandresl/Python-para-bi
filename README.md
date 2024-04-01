@@ -159,4 +159,16 @@ Acesse o curso também pelo Smartphone ou Tablet com nossas apps gratuitas para 
 
 **Bibliografia do Blog da DSA**: [Link](https://blog.dsacademy.com.br/categoria/bibliografia/)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/2680c62101079e6c661cf66c84f65bf3ddd28885)
+
+# 2. Primeiros Passos com a linguagem Python - Visão geral, Instalação e ChatGPt
+
+## 2.01 Introdução
+
+Seja bem-vindo ao Capítulo 2. Vamos iniciar a diversão.
+
+Neste capítulo vamos preparar o ambiente de trabalho, instalar o Anaconda Python, conhecer um pouco sobre a linguagem e ainda usar o ChatGPT.
+
+Acompanhe as aulas sempre na sequência. Bons estudos.
+
 [Commit]()
