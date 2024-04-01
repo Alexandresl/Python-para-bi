@@ -31,4 +31,10 @@ Acesse o curso também pelo Smartphone ou Tablet com nossas apps gratuitas para 
 
 [Link](https://www.datascienceacademy.com.br/faq)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/80de9d247ad8af969c5d195e46053afedd9e917e)
+
+## 1.04 Navegando pela Data Science Academy
+
+[Vídeo](https://youtu.be/W-1UPjjxNPQ)
+
 [Commit]()
