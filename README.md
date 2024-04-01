@@ -55,4 +55,10 @@ Acesse o curso também pelo Smartphone ou Tablet com nossas apps gratuitas para 
 
 [Vídeo](https://youtu.be/sd7IJUSmz94)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/39deac3e99ac601e6429ca350f8f08914ee7d1cd)
+
+## 1.08 Apresentação da DSA
+
+[Vídeo](https://youtu.be/likszyE6U_w)
+
 [Commit]()
