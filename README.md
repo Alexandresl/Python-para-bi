@@ -192,6 +192,16 @@ A Linguagem Python é interpretada. Para usarmos a linguagem temos que usar um i
 
 ## 2.04 Links de download do Anaconda Python
 
-[Link](https://repo.anaconda.com/archive/Anaconda3-2022.10-Windows-x86_64.exe)
+[Link para Windows](https://repo.anaconda.com/archive/Anaconda3-2022.10-Windows-x86_64.exe)
+
+[Link para Linux](https://repo.anaconda.com/archive/Anaconda3-2022.10-Linux-x86_64.sh)
+
+[Link para MacOS](https://repo.anaconda.com/archive/Anaconda3-2022.10-MacOSX-x86_64.pkg)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/7eb677d5410098dc7bfe65f6a6df390f38b209f2)
+
+## 2.05 Instalando e configurando o Anaconda Python no Windows - Parte 1/2
+
+[Vídeo](https://youtu.be/lC8_WhLJWMc)
 
 [Commit]()
