@@ -171,4 +171,15 @@ Neste capítulo vamos preparar o ambiente de trabalho, instalar o Anaconda Pytho
 
 Acompanhe as aulas sempre na sequência. Bons estudos.
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/dc71992e56a33d9b3cc5e3f84f72ce3176b43eac)
+
+## 2.02 Como usar a Linguagem Python?
+
+A Linguagem Python é interpretada. Para usarmos a linguagem temos que usar um interpretador. A linguagem Python possui diversas opções de interpretadores, sendo duas destas opções:
+
+	* https://www.python.org/ - Interpretador oficial dos mantenedores da linguagem
+	* https://www.anaconda.com/download - Interpretador com mais ferramentas para Data Science e machine learning
+
+[Vídeo](https://youtu.be/t62pi_vmUiE)
+
 [Commit]()
