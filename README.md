@@ -96,4 +96,19 @@ Acesse o curso também pelo Smartphone ou Tablet com nossas apps gratuitas para 
 
 [Vídeo](https://youtu.be/CCWao08MJb4)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/e80813d7a640cbfa988eae0f9d35dd7321edb318)
+
+## 1.12 Conteúdo programático - Nível Intermediário
+
+* Nível Intermediário
+  * 14 Linguagem Python Nível Intermediário - Análise estatística com Statsmodels
+  * 15 Linguagem Python Nível Intermediário - Análise de séries temporais em Python
+  * 16 Linguagem Python Nível Intermediário - Machine Learning com Scikit-Learn
+  * 17 Linguagem Python Nível Intermediário - Introdução a Deep Learning com TensorFlow
+  * 18 Linguagem Python Nível Intermediário - Aprendizado por reforço (Reinforcement Learning)
+  * 19 Projeto 3
+  * 20 Avaliação e certificado de conclusão
+
+[Vídeo](https://youtu.be/O1dexP92JfY)
+
 [Commit]()

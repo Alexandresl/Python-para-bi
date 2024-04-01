@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
         "Matplotlib",
-        "Seaborn"
+        "Seaborn",
+        "Statsmodels"
     ]
 }
