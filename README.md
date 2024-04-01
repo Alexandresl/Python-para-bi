@@ -153,4 +153,10 @@ Acesse o curso também pelo Smartphone ou Tablet com nossas apps gratuitas para 
 
 [E-book](./Arquivos/49-E-book%20DSA%20_Guia_De_Estudo_Aprendizagem.pdf)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/4f874522082178073589eda1a5529ca964b21112)
+
+## 1.19 Bibliografia, Referência e Links Úteis
+
+**Bibliografia do Blog da DSA**: [Link](https://blog.dsacademy.com.br/categoria/bibliografia/)
+
 [Commit]()
