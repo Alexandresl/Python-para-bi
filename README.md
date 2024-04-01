@@ -188,4 +188,10 @@ A Linguagem Python é interpretada. Para usarmos a linguagem temos que usar um i
 
 [Vídeo](https://youtu.be/frWz3Jw7ZC4)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/929c5d1925b83e087ad937e73219ee3b336ed0b6)
+
+## 2.04 Links de download do Anaconda Python
+
+[Link](https://repo.anaconda.com/archive/Anaconda3-2022.10-Windows-x86_64.exe)
+
 [Commit]()
