@@ -123,4 +123,16 @@ Acesse o curso também pelo Smartphone ou Tablet com nossas apps gratuitas para 
 
 [Vídeo](https://youtu.be/9CGnB4UQPzY)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/fa2b81f9a075ce03f51db09d5980070d05975359)
+
+## 1.15 Bibliografia recomendada
+
+* Bibliografia
+  * Intro to Python for Computer Science and Data Science: Learning to Program with Ai, Big Data and the Cloud - Paul Deitel e Harvey Deite
+    * Link: [https://www.amazon.com.br/Importados-de-Programa%C3%A7%C3%A3o-Python-Computadores/s?rh=n%3A13984956011%2Cp_lbr_books_authors_browse-bin%3AH.M.+Deitel](https://www.amazon.com.br/Importados-de-Programa%C3%A7%C3%A3o-Python-Computadores/s?rh=n%3A13984956011%2Cp_lbr_books_authors_browse-bin%3AH.M.+Deitel)
+  * Python Programming for Data Analysis - José Unpingco
+    * Link: [https://www.amazon.com.br/Python-Programming-Data-Analysis-Unpingco/dp/3030689514](https://www.amazon.com.br/Python-Programming-Data-Analysis-Unpingco/dp/3030689514)
+
+[Vídeo](https://youtu.be/_YiPVNuPuSE)
+
 [Commit]()
