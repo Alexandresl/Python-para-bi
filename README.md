@@ -43,4 +43,10 @@ Acesse o curso também pelo Smartphone ou Tablet com nossas apps gratuitas para 
 
 **E-mail**: **suporte@datascienceacademy.com.br**
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/01bc0d204f9076ccee578454952bbc1e6d9c668b)
+
+## 1.06 Termos e condições de uso
+
+[Link](./Termos-e-condicoes-de-uso.md)
+
 [Commit]()
