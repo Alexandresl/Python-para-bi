@@ -204,4 +204,16 @@ A Linguagem Python é interpretada. Para usarmos a linguagem temos que usar um i
 
 [Vídeo](https://youtu.be/lC8_WhLJWMc)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/61e0f371e81160444485a70c3f8ba50cce3a45af)
+
+## 2.06 Instalando e configurando o Anaconda Python no Windows - Parte 2/2
+
+Comando para executar o editor do Python:
+
+```
+jupyter notebook
+```
+
+[Vídeo](https://youtu.be/-agITg11JhE)
+
 [Commit]()
