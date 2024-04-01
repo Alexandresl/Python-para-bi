@@ -117,4 +117,10 @@ Acesse o curso também pelo Smartphone ou Tablet com nossas apps gratuitas para 
 
 [Vídeo](https://youtu.be/JQjVhUnfPiY)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/e9e84c0b70bfc02b2e38f39d1520fccf30a02db7)
+
+## 1.14 Avaliação e certificado de conclusão
+
+[Vídeo](https://youtu.be/9CGnB4UQPzY)
+
 [Commit]()
