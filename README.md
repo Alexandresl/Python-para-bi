@@ -135,4 +135,10 @@ Acesse o curso também pelo Smartphone ou Tablet com nossas apps gratuitas para 
 
 [Vídeo](https://youtu.be/_YiPVNuPuSE)
 
-[Commit]()
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/c1ef938f0ef1fb511ff12f057b3798230ff192e7)
+
+## 1.16 Requisitos de hardware e software
+
+[Vídeo](https://youtu.be/Wsuq3q200fY)
+
+[Link]()
