@@ -141,4 +141,10 @@ Acesse o curso também pelo Smartphone ou Tablet com nossas apps gratuitas para 
 
 [Vídeo](https://youtu.be/Wsuq3q200fY)
 
+[Link](https://github.com/Alexandresl/Python-para-bi/tree/763e32197f0ee23b86244a5d19e4b82e421a5fc0)
+
+## 1.17 Outros cursos de linguagem Python
+
+[Vídeo](https://youtu.be/ATpeq7u4oGE)
+
 [Link]()
