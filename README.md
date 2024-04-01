@@ -61,4 +61,10 @@ Acesse o curso também pelo Smartphone ou Tablet com nossas apps gratuitas para 
 
 [Vídeo](https://youtu.be/likszyE6U_w)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/a317f11aa2f216bfa760c43a2f0dc888fa18fd16)
+
+## 1.09 O que há de novo nesta versão 4 do Curso gratuito de Python
+
+[Vídeo](https://youtu.be/qtGpdith0yI)
+
 [Commit]()
