@@ -343,4 +343,10 @@ Este Lab está imperdível. Acompanhe as aulas na sequência.
 
 [Vídeo](https://youtu.be/FdScmoTqYcY)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/8b20fe4f7d6dda59c2a6224108f2e768a4b35bb2)
+
+### 2.16 Lab 1 - É fácil aprender a linguagem Python?
+
+[Vídeo](https://youtu.be/ZUD7PJctBho)
+
 [Commit]()
