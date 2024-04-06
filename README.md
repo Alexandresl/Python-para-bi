@@ -266,4 +266,47 @@ O ChatGPT é um assistente baseado em Inteligência Artificial e assim será usa
 
 [Vídeo](https://youtu.be/EG0XXXtiVFI)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/e5c2f6d00b6cf7a13c23663f5b2caeaf5f520e8f)
+
+## 2.11 Como usar o ChatGPT de forma correta?
+
+O ChatGPT é uma interface de conversação para um modelo de Inteligência Artificial.
+
+O ChatGPT é capaz de gerar linguagem natural a partir de perguntas feitas pelo usuários.
+
+IA é algo incrível e para nós aqui na DSA que trabalhamos com IA e ensinamos as técnicas de IA desde 2016 é maravilhoso observar como IA está evoluindo e fazer parte dessa evolução.
+
+Mas é importante lembrar que sistemas como o ChatGPT são tecnologias de software com grandes potencialidades, mas também grandes limitações. Estamos observando a evolução neste momento.
+
+Como funciona o ChatGPT:
+
+* Ao iniciar o sistema, você insere uma frase ou pergunta.
+* O ChatGPT examina computacionalmente sua solicitação.
+* As várias relações estatísticas entre as palavras que você inseriu são usadas pelo modelo de IA para tentar determinar qual texto viria a seguir. Você mantém a conversa e o processo vai se repetindo.
+* A partir de uma única linha que você escreve, pode ser que toda uma história ou narrativa possa ser gerada.
+
+E por que o resultado parece tão bom?
+
+Com um conjunto de dados grande o suficiente para treinamento e com imensa capacidade computacional para processar os dados, a saída produzida por uma IA generativa pode ser incrivelmente impressionante e até parecer uma conversa com outro ser humano.
+
+Uma das principais razões por trás do desempenho do ChatGPT é sua técnica de treinamento chamada "*Reinforcement Learning From Human Feedback*" (RLHF) ou "*Aprendizado por Reforço com Feedback Humano*". Embora tenha mostrado resultados impressionantes com LLMs, a técnica RLHF já existia antes ao lançamento do primeiro modelo GPT.
+
+E como usar o ChatGPT de forma correta?
+
+1. Use frases ou perguntas claras e objetivas (para isso é preciso ter conhecimento sobre a área que você deseja conversar com o chatbot).
+2. Avalie o resultado e certifique-se que cada resposta é coerente. Não apenas aceite a resposta passivamente. A própria OpenAI avisa que o sistema pode apresentar falhas.
+3. Se você não tem conhecimento sobre um determinado assunto e não consegue interpretar se o resultado do ChatGPT está correto, não use o sistema sem supervisão.
+
+**O ChatGPT é um assistente, um sistema para aumentar sua produtividade.**
+
+**Ele não substitui sua capacidade cognitiva.**
+
+**Portanto, desenvolver sua capacidade cognitiva e adquirir conhecimento é fundamental para extrair o melhor que sistemas de IA oferecem.**
+
+**Você não será substituído por sistemas de IA.**
+
+**Você poderá ser substituído por que sabe usar sistemas de IA.**
+
+[Vídeo](https://youtu.be/_rqZloX6K2w)
+
 [Commit]()
