@@ -337,4 +337,10 @@ O objetivo deste Lab é demonstrar para você, na prática, o uso do ChatGTP ao 
 
 Este Lab está imperdível. Acompanhe as aulas na sequência.
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/751bfb732f421209cb6999eac1ed86aa6842d001)
+
+### 2.15 Lab 1 - Introdução à linguagem Python
+
+[Vídeo](https://youtu.be/FdScmoTqYcY)
+
 [Commit]()
