@@ -321,4 +321,12 @@ O ChatGPT é um projeto experimental que vem recebendo muitos acessos e nos hor�
 
 Tente o acesso ao ChatGPT preferencialmente após as 18h. O curso da DSA pode ser acessado em qualquer hora do dia.
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/93baf028da6963108bf27b1fb95308f7d124e7cd)
+
+### 2.13 Criando sua conta no ChatGPT
+
+Para criar sua conta e usar gratuitamente o ChatGPT acesse o link abaixo:
+
+[https://chat.openai.com/](https://chat.openai.com/)
+
 [Commit]()
