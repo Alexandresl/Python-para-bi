@@ -379,4 +379,10 @@ Este Lab está imperdível. Acompanhe as aulas na sequência.
 
 [Vídeo](https://youtu.be/kyVgTYArvos)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/d5e8428e22f93184d42566f229753c916d694ac7)
+
+### 2.22 Arquivos do Capítulo
+
+[Arquivo](./Cap02/53-Cap02.zip)
+
 [Commit]()
