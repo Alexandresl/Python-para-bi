@@ -355,4 +355,10 @@ Este Lab está imperdível. Acompanhe as aulas na sequência.
 
 [Vídeo](https://youtu.be/dW0SIOnB_xA)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/1427b15e6aecb03437f38c9718f77880bc102ab6)
+
+### 2.18 Lab 1 - Gerando código Python com ChatGPT
+
+[Vídeo](https://youtu.be/VpLLNuZKzug)
+
 [Commit]()
