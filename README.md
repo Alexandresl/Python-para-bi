@@ -373,4 +373,10 @@ Este Lab está imperdível. Acompanhe as aulas na sequência.
 
 [Vídeo](https://youtu.be/lCIj0B2uKWU)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/a99058dc078c97e638ab9f8ab83c7ce83b31e884)
+
+### 2.21 Lab 1 - Conclusão
+
+[Vídeo](https://youtu.be/kyVgTYArvos)
+
 [Commit]()
