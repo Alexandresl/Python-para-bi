@@ -349,4 +349,10 @@ Este Lab está imperdível. Acompanhe as aulas na sequência.
 
 [Vídeo](https://youtu.be/ZUD7PJctBho)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/dc1719f214bc5e0c9deebaf21ce69f6150a742ca)
+
+### 2.17 Lab 1 - O ChatGPT (Inteligência Artificial) Pode Substituir Professores e Instrutores?
+
+[Vídeo](https://youtu.be/dW0SIOnB_xA)
+
 [Commit]()
