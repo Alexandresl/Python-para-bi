@@ -1,5 +1,53 @@
 # 1. Introdução
 
+- [1. Introdução](#1-introdução)
+  - [1.01 Bem-vindo ao curso fundamentos de linguagem Python para análise de dados e Data Science](#101-bem-vindo-ao-curso-fundamentos-de-linguagem-python-para-análise-de-dados-e-data-science)
+  - [1.02 Por que devemos aprender a programar?](#102-por-que-devemos-aprender-a-programar)
+  - [1.03 Perguntas e respostas](#103-perguntas-e-respostas)
+  - [1.04 Navegando pela Data Science Academy](#104-navegando-pela-data-science-academy)
+  - [1.05 Suporte e canais de comunicação](#105-suporte-e-canais-de-comunicação)
+  - [1.06 Termos e condições de uso](#106-termos-e-condições-de-uso)
+  - [1.07 Introdução ao curso](#107-introdução-ao-curso)
+  - [1.08 Apresentação da DSA](#108-apresentação-da-dsa)
+  - [1.09 O que há de novo nesta versão 4 do Curso gratuito de Python](#109-o-que-há-de-novo-nesta-versão-4-do-curso-gratuito-de-python)
+  - [1.10 Conteúdo programático - Nível Introdutório](#110-conteúdo-programático---nível-introdutório)
+  - [1.11 Conteúdo programático - Nível Básico](#111-conteúdo-programático---nível-básico)
+  - [1.12 Conteúdo programático - Nível Intermediário](#112-conteúdo-programático---nível-intermediário)
+  - [1.13 Abordagem ao curso](#113-abordagem-ao-curso)
+  - [1.14 Avaliação e certificado de conclusão](#114-avaliação-e-certificado-de-conclusão)
+  - [1.15 Bibliografia recomendada](#115-bibliografia-recomendada)
+  - [1.16 Requisitos de hardware e software](#116-requisitos-de-hardware-e-software)
+  - [1.17 Outros cursos de linguagem Python](#117-outros-cursos-de-linguagem-python)
+  - [1.18 E-book Guia de estudo e aprendizagem da Data Science Academy](#118-e-book-guia-de-estudo-e-aprendizagem-da-data-science-academy)
+  - [1.19 Bibliografia, Referência e Links Úteis](#119-bibliografia-referência-e-links-úteis)
+- [2. Primeiros Passos com a linguagem Python - Visão geral, Instalação e ChatGPt](#2-primeiros-passos-com-a-linguagem-python---visão-geral-instalação-e-chatgpt)
+  - [2.01 Introdução](#201-introdução)
+  - [2.02 Como usar a Linguagem Python?](#202-como-usar-a-linguagem-python)
+  - [2.03 Versões da linguagem Python](#203-versões-da-linguagem-python)
+  - [2.04 Links de download do Anaconda Python](#204-links-de-download-do-anaconda-python)
+  - [2.05 Instalando e configurando o Anaconda Python no Windows - Parte 1/2](#205-instalando-e-configurando-o-anaconda-python-no-windows---parte-12)
+  - [2.06 Instalando e configurando o Anaconda Python no Windows - Parte 2/2](#206-instalando-e-configurando-o-anaconda-python-no-windows---parte-22)
+  - [2.07 Instalando e configurando o Anaconda Python no MacOS - Parte 1/2](#207-instalando-e-configurando-o-anaconda-python-no-macos---parte-12)
+  - [2.08 Instalando e configurando o Anaconda Python no MacOS - Parte 2/2](#208-instalando-e-configurando-o-anaconda-python-no-macos---parte-22)
+  - [2.09 Instalando e configurando Anaconda Python no Linux](#209-instalando-e-configurando-anaconda-python-no-linux)
+  - [2.10 O que é o ChatGPT?](#210-o-que-é-o-chatgpt)
+  - [2.11 Como usar o ChatGPT de forma correta?](#211-como-usar-o-chatgpt-de-forma-correta)
+  - [2.12 Posso continuar o curso se o ChatGPT Estiver Indisponível?](#212-posso-continuar-o-curso-se-o-chatgpt-estiver-indisponível)
+  - [2.13 Criando sua conta no ChatGPT](#213-criando-sua-conta-no-chatgpt)
+  - [2.14 Lab 1 - Conhecendo a Linguagem Python com ChatGPT](#214-lab-1---conhecendo-a-linguagem-python-com-chatgpt)
+  - [2.15 Lab 1 - Introdução à linguagem Python](#215-lab-1---introdução-à-linguagem-python)
+  - [2.16 Lab 1 - É fácil aprender a linguagem Python?](#216-lab-1---é-fácil-aprender-a-linguagem-python)
+  - [2.17 Lab 1 - O ChatGPT (Inteligência Artificial) Pode Substituir Professores e Instrutores?](#217-lab-1---o-chatgpt-inteligência-artificial-pode-substituir-professores-e-instrutores)
+  - [2.18 Lab 1 - Gerando código Python com ChatGPT](#218-lab-1---gerando-código-python-com-chatgpt)
+  - [2.19 Lab 1 - Primeiros passos com a Linguagem Python - Parte 1/2](#219-lab-1---primeiros-passos-com-a-linguagem-python---parte-12)
+  - [2.20 Lab 1 - Primeiros passos com a Linguagem Python - Parte 2/2](#220-lab-1---primeiros-passos-com-a-linguagem-python---parte-22)
+  - [2.21 Lab 1 - Conclusão](#221-lab-1---conclusão)
+  - [2.22 Arquivos do Capítulo](#222-arquivos-do-capítulo)
+  - [2.23 Bibliografia, referências e links úteis](#223-bibliografia-referências-e-links-úteis)
+- [3. Linguagem Python Nível Introdutório - Introdução à Lógica de Programação](#3-linguagem-python-nível-introdutório---introdução-à-lógica-de-programação)
+  - [3.01 Introdução](#301-introdução)
+
+
 ## 1.01 Bem-vindo ao curso fundamentos de linguagem Python para análise de dados e Data Science
 
 Prezado aluno,
@@ -323,7 +371,7 @@ Tente o acesso ao ChatGPT preferencialmente após as 18h. O curso da DSA pode se
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/93baf028da6963108bf27b1fb95308f7d124e7cd)
 
-### 2.13 Criando sua conta no ChatGPT
+## 2.13 Criando sua conta no ChatGPT
 
 Para criar sua conta e usar gratuitamente o ChatGPT acesse o link abaixo:
 
@@ -331,7 +379,7 @@ Para criar sua conta e usar gratuitamente o ChatGPT acesse o link abaixo:
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/b474e5c4cf54ec0b5abe703ecf7219b2fce590fa)
 
-### 2.14 Lab 1 - Conhecendo a Linguagem Python com ChatGPT
+## 2.14 Lab 1 - Conhecendo a Linguagem Python com ChatGPT
 
 O objetivo deste Lab é demonstrar para você, na prática, o uso do ChatGTP ao mesmo tempo que apresentamos a Linguagem Python escrevendo e compreendendo as primeiras linhas de código.
 
@@ -339,55 +387,55 @@ Este Lab está imperdível. Acompanhe as aulas na sequência.
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/751bfb732f421209cb6999eac1ed86aa6842d001)
 
-### 2.15 Lab 1 - Introdução à linguagem Python
+## 2.15 Lab 1 - Introdução à linguagem Python
 
 [Vídeo](https://youtu.be/FdScmoTqYcY)
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/8b20fe4f7d6dda59c2a6224108f2e768a4b35bb2)
 
-### 2.16 Lab 1 - É fácil aprender a linguagem Python?
+## 2.16 Lab 1 - É fácil aprender a linguagem Python?
 
 [Vídeo](https://youtu.be/ZUD7PJctBho)
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/dc1719f214bc5e0c9deebaf21ce69f6150a742ca)
 
-### 2.17 Lab 1 - O ChatGPT (Inteligência Artificial) Pode Substituir Professores e Instrutores?
+## 2.17 Lab 1 - O ChatGPT (Inteligência Artificial) Pode Substituir Professores e Instrutores?
 
 [Vídeo](https://youtu.be/dW0SIOnB_xA)
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/1427b15e6aecb03437f38c9718f77880bc102ab6)
 
-### 2.18 Lab 1 - Gerando código Python com ChatGPT
+## 2.18 Lab 1 - Gerando código Python com ChatGPT
 
 [Vídeo](https://youtu.be/VpLLNuZKzug)
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/984d23294eba91e6cbdfd87c7a5f39a8eff2298c)
 
-### 2.19 Lab 1 - Primeiros passos com a Linguagem Python - Parte 1/2
+## 2.19 Lab 1 - Primeiros passos com a Linguagem Python - Parte 1/2
 
 [Vídeo](https://youtu.be/gMxzuaBsEyk)
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/65cfae046766bdc62d2ad045a5f959876028dc73)
 
-### 2.20 Lab 1 - Primeiros passos com a Linguagem Python - Parte 2/2
+## 2.20 Lab 1 - Primeiros passos com a Linguagem Python - Parte 2/2
 
 [Vídeo](https://youtu.be/lCIj0B2uKWU)
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/a99058dc078c97e638ab9f8ab83c7ce83b31e884)
 
-### 2.21 Lab 1 - Conclusão
+## 2.21 Lab 1 - Conclusão
 
 [Vídeo](https://youtu.be/kyVgTYArvos)
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/d5e8428e22f93184d42566f229753c916d694ac7)
 
-### 2.22 Arquivos do Capítulo
+## 2.22 Arquivos do Capítulo
 
 [Arquivo](./Cap02/53-Cap02.zip)
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/9da0a1e66c6b23f69ea2228756a974a998322cea)
 
-### 2.23 Bibliografia, referências e links úteis
+## 2.23 Bibliografia, referências e links úteis
 
 O Que o ChatGPTRealmente Significa Para as Empresas?
 [https://blog.dsacademy.com.br/o-que-o-chatgpt-realmente-significa-para-as_empresas/](https://blog.dsacademy.com.br/o-que-o-chatgpt-realmente-significa-para-as_empresas/)
@@ -404,5 +452,12 @@ A Anedota do Abacaxi
 OpenAI
 [https://openai.com/](https://www.cienciaedados.com/5-alternativas-ao-chatgpt/)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/f7c6c06e6b1a8815067e01923031e3b575a09520)
+
+# 3. Linguagem Python Nível Introdutório - Introdução à Lógica de Programação
+
+## 3.01 Introdução
+
+Seja bem vindo ao Capítulo 3. Este capítulo traz uma breve introdução à lógica de programação e como deve ser sua abordagem para aprender qualquer linguagem de programação. Este capítulo é valioso! Aproveite.
 
 [Commit]()
