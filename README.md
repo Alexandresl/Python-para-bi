@@ -234,4 +234,36 @@ jupyter notebook
 
 [Vídeo](https://youtu.be/hXgvLbHNItI)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/a61fe0164805d7eb015d098ab76e1d5e9f6f9cee)
+
+## 2.10 O que é o ChatGPT?
+
+ChatGPT (Generative Pre-trained Transformer) é um chatbot lançado pela OpenAI.
+
+Ele foi construído sobre a família GPT-3 da OpenAI de grandes modelos de linguagem (LLM - Large Language Models) e é ajustado com técnicas de aprendizado supervisionado e por reforço.
+
+O ChatGPT foi lançado como protótipo em 30 de novembro de 2022 e rapidamente chamou a atenção por suas respostas detalhadas e articuladas em vários domínios do conhecimento e vários idiomas, incluindo o português.
+
+O ChatGPT é, portanto, uma interface para um sistema de inteligência artificial.
+
+O ChatGPT foi ajustado com base no GPT-3.5 usando aprendizado supervisionado e aprendizado por reforço.
+
+Ambas as abordagens usaram treinadores humanos para melhorar o desempenho do modelo.
+
+No caso da aprendizagem supervisionada, o modelo foi provido de conversas em que os treinadores jogavam dos dois lados: o usuário e o assistente de IA.
+
+Na etapa de reforço, os treinadores humanos primeiro classificaram as respostas que o modelo havia criado em uma conversa anterior. Essas classificações foram usadas para criar "modelos de recompensa" nos quais o modelo foi aprimorado usando várias iterações de Proximal Policy Optimization (PPO).
+
+As técnicas usadas pelo ChatGPT são estudas aqui na DSA na Formação Engenheiro de IA e em outros cursos em nosso portal.
+
+O primeiro modelo GPT da OpenAI foi lançado em 2018, sendo aprimorado ao longo dos anos em diferentes versões. Já era possível usar o GPT antes através da API (ainda é possível).
+
+A grande novidade foi disponibilizar o ChatGPT aberto ao público geral. Neste momento o ChatGPT é gratuito.
+
+Existem diversos modelos similares (e alguns até melhores) que o GPT da OpenAI disponíveis no mercado.
+
+O ChatGPT é um assistente baseado em Inteligência Artificial e assim será usado neste curso.
+
+[Vídeo](https://youtu.be/EG0XXXtiVFI)
+
 [Commit]()
