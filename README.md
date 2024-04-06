@@ -361,4 +361,10 @@ Este Lab está imperdível. Acompanhe as aulas na sequência.
 
 [Vídeo](https://youtu.be/VpLLNuZKzug)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/984d23294eba91e6cbdfd87c7a5f39a8eff2298c)
+
+### 2.19 Lab 1 - Primeiros passos com a Linguagem Python - Parte 1/2
+
+[Vídeo](https://youtu.be/gMxzuaBsEyk)
+
 [Commit]()
