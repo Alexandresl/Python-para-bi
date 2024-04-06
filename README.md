@@ -329,4 +329,12 @@ Para criar sua conta e usar gratuitamente o ChatGPT acesse o link abaixo:
 
 [https://chat.openai.com/](https://chat.openai.com/)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/b474e5c4cf54ec0b5abe703ecf7219b2fce590fa)
+
+### 2.14 Lab 1 - Conhecendo a Linguagem Python com ChatGPT
+
+O objetivo deste Lab é demonstrar para você, na prática, o uso do ChatGTP ao mesmo tempo que apresentamos a Linguagem Python escrevendo e compreendendo as primeiras linhas de código.
+
+Este Lab está imperdível. Acompanhe as aulas na sequência.
+
 [Commit]()
