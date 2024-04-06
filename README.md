@@ -46,6 +46,7 @@
   - [2.23 Bibliografia, referências e links úteis](#223-bibliografia-referências-e-links-úteis)
 - [3. Linguagem Python Nível Introdutório - Introdução à Lógica de Programação](#3-linguagem-python-nível-introdutório---introdução-à-lógica-de-programação)
   - [3.01 Introdução](#301-introdução)
+  - [3.02 Qual o grande equívoco que impede as pessoas de aprenderem programação?](#302-qual-o-grande-equívoco-que-impede-as-pessoas-de-aprenderem-programação)
 
 
 ## 1.01 Bem-vindo ao curso fundamentos de linguagem Python para análise de dados e Data Science
@@ -459,5 +460,15 @@ OpenAI
 ## 3.01 Introdução
 
 Seja bem vindo ao Capítulo 3. Este capítulo traz uma breve introdução à lógica de programação e como deve ser sua abordagem para aprender qualquer linguagem de programação. Este capítulo é valioso! Aproveite.
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/43af34d281071b56c14254c8231ffb07e9191641)
+
+## 3.02 Qual o grande equívoco que impede as pessoas de aprenderem programação?
+
+**Resposta gerada pelo ChatGPT:**
+
+Uma das principais razões pelas quais as pessoas têm dificuldade em aprender programação é a falta de compreensão de que a programação é um processo de resolução de problemas. Muitas pessoas pensam que a programação é apenas sobre escrever códigos, mas na verdade é sobre entender como resolver problemas usando a lógica e a sintaxe de uma linguagem de programação específica. Além disso, outra razão comum é a falta de interesse ou motivação, sem um propósito claro e compreensão do benefício de aprender programação, a pessoa pode perder interesse e desistir.
+
+[Vídeo](https://youtu.be/S3p3_pMHGmw)
 
 [Commit]()
