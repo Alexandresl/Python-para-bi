@@ -222,4 +222,10 @@ jupyter notebook
 
 [Vídeo](https://youtu.be/oLY192SRxBM)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/87b4076e97552c6a4e2c7989d7950d1e8868e8ed)
+
+## 2.08 Instalando e configurando o Anaconda Python no MacOS - Parte 2/2
+
+[Vídeo](https://youtu.be/AC1G-S3IpAQ)
+
 [Commit]()
