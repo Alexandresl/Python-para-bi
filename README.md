@@ -47,6 +47,7 @@
 - [3. Linguagem Python Nível Introdutório - Introdução à Lógica de Programação](#3-linguagem-python-nível-introdutório---introdução-à-lógica-de-programação)
   - [3.01 Introdução](#301-introdução)
   - [3.02 Qual o grande equívoco que impede as pessoas de aprenderem programação?](#302-qual-o-grande-equívoco-que-impede-as-pessoas-de-aprenderem-programação)
+  - [3.03 O que é lógica de programação?](#303-o-que-é-lógica-de-programação)
 
 
 ## 1.01 Bem-vindo ao curso fundamentos de linguagem Python para análise de dados e Data Science
@@ -470,5 +471,15 @@ Seja bem vindo ao Capítulo 3. Este capítulo traz uma breve introdução à ló
 Uma das principais razões pelas quais as pessoas têm dificuldade em aprender programação é a falta de compreensão de que a programação é um processo de resolução de problemas. Muitas pessoas pensam que a programação é apenas sobre escrever códigos, mas na verdade é sobre entender como resolver problemas usando a lógica e a sintaxe de uma linguagem de programação específica. Além disso, outra razão comum é a falta de interesse ou motivação, sem um propósito claro e compreensão do benefício de aprender programação, a pessoa pode perder interesse e desistir.
 
 [Vídeo](https://youtu.be/S3p3_pMHGmw)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/b6f93db9f8f1a917866bd77010b6c63f8135a531)
+
+## 3.03 O que é lógica de programação?
+
+**Resposta gerada pelo ChatGPT:**
+
+A lógica de programação é o conjunto de princípios e técnicas utilizadas para desenvolver algoritmos eficientes e corretos que podem ser usados para resolver problemas computacionais. Ela é a base da programação, e envolve a capacidade de pensar de forma lógica e estruturada, bem como a habilidade de expressar essas ideias usando uma linguagem de programação. A lógica de programação inclui conceitos como fluxo de controle, estruturas de decisão, laços de repetição, funções e procedimentos, entre outros. Aprender a lógica de programação é essencial para se tornar um programador eficiente e para ser capaz de resolver problemas de forma estruturada e eficiente.
+
+[Vídeo](https://youtu.be/GaneB1A92N8)
 
 [Commit]()
