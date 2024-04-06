@@ -385,4 +385,24 @@ Este Lab está imperdível. Acompanhe as aulas na sequência.
 
 [Arquivo](./Cap02/53-Cap02.zip)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/9da0a1e66c6b23f69ea2228756a974a998322cea)
+
+### 2.23 Bibliografia, referências e links úteis
+
+O Que o ChatGPTRealmente Significa Para as Empresas?
+[https://blog.dsacademy.com.br/o-que-o-chatgpt-realmente-significa-para-as_empresas/](https://blog.dsacademy.com.br/o-que-o-chatgpt-realmente-significa-para-as_empresas/)
+
+ChatGPT: Tudo Que Você Realmente Precisa Saber, Uso e Limitações
+[https://www.cienciaedados.com/chatgpt-tudo-que-voce-realmente-precisa-saber-uso-e-limitacoes/](https://www.cienciaedados.com/chatgpt-tudo-que-voce-realmente-precisa-saber-uso-e-limitacoes/)
+
+5 Alternativas ao ChatGPT
+[https://www.cienciaedados.com/5-alternativas-ao-chatgpt/](https://www.cienciaedados.com/5-alternativas-ao-chatgpt/)
+
+A Anedota do Abacaxi
+[https://blog.dsacademy.com.br/a-anedota-do-abacaxi/](https://www.cienciaedados.com/5-alternativas-ao-chatgpt/)
+
+OpenAI
+[https://openai.com/](https://www.cienciaedados.com/5-alternativas-ao-chatgpt/)
+
+
 [Commit]()
