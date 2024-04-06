@@ -228,4 +228,10 @@ jupyter notebook
 
 [Vídeo](https://youtu.be/AC1G-S3IpAQ)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/667fd68818194aa76534efccffdeee64b2e36f67)
+
+## 2.09 Instalando e configurando Anaconda Python no Linux
+
+[Vídeo](https://youtu.be/hXgvLbHNItI)
+
 [Commit]()
