@@ -309,4 +309,16 @@ E como usar o ChatGPT de forma correta?
 
 [Vídeo](https://youtu.be/_rqZloX6K2w)
 
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/8cf7b0c55196fae92e065490ff684d393f5295bd)
+
+## 2.12 Posso continuar o curso se o ChatGPT Estiver Indisponível?
+
+Sim, perfeitamente. Este curso não depende do ChatGPT e você pode seguir o curso normalmente se o ChatGPT estiver indisponível.
+
+Todos os arquivos mostrados durante as aulas estão disponíveis para download ao final do capítulo e você pode usar esses arquivos para seguir o curso.
+
+O ChatGPT é um projeto experimental que vem recebendo muitos acessos e nos horários de pico (normalmente entre 10 e 18h) pode ser impossível acessar o sistema.
+
+Tente o acesso ao ChatGPT preferencialmente após as 18h. O curso da DSA pode ser acessado em qualquer hora do dia.
+
 [Commit]()
