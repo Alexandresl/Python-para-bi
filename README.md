@@ -60,6 +60,7 @@
   - [3.13 Convertendo o Pseudocódigo 3 em programação Python - Parte 2/2](#313-convertendo-o-pseudocódigo-3-em-programação-python---parte-22)
   - [3.14 Conclusão](#314-conclusão)
   - [3.15 Arquivos do capítulo](#315-arquivos-do-capítulo)
+  - [3.16 Bibliografia, referências e links úteis](#316-bibliografia-referências-e-links-úteis)
 
 # Introdução
 
@@ -641,5 +642,14 @@ Fim
 ## 3.15 Arquivos do capítulo
 
 [Arquivo](./Cap03/71-Cap03.zip)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/04f02620c3d2262a9569a09afdbd082523931b0b)
+
+## 3.16 Bibliografia, referências e links úteis
+
+Curso Bônus de Introdução à Lógica de Programação 
+(Gratuito e Exclusivo Para Alunos das Formações DSA)
+
+[https://www.datascienceacademy.com.br/course/modulos-extras-de-capacitacao-profissional](https://www.datascienceacademy.com.br/course/modulos-extras-de-capacitacao-profissional)
 
 [Commit]()
