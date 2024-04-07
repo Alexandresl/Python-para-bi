@@ -58,6 +58,7 @@
   - [3.11 Pseudocódigo 3 - Algoritmo Bubble Sort](#311-pseudocódigo-3---algoritmo-bubble-sort)
   - [3.12 Convertendo o Pseudocódigo 3 em programação Python - Parte 1/2](#312-convertendo-o-pseudocódigo-3-em-programação-python---parte-12)
   - [3.13 Convertendo o Pseudocódigo 3 em programação Python - Parte 2/2](#313-convertendo-o-pseudocódigo-3-em-programação-python---parte-22)
+  - [3.14 Conclusão](#314-conclusão)
 
 # Introdução
 
@@ -627,5 +628,11 @@ Fim
 ## 3.13 Convertendo o Pseudocódigo 3 em programação Python - Parte 2/2
 
 [Vídeo](https://youtu.be/UVk_znMnzJI)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/877ede4d39134d2e06ef1e64f7e58091306bffc3)
+
+## 3.14 Conclusão
+
+[Vídeo](https://youtu.be/J7ILuKnNdI4)
 
 [Commit]()
