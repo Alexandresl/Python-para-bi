@@ -54,6 +54,7 @@
   - [3.07 Pseudocódigo 2 - Calculadora simples](#307-pseudocódigo-2---calculadora-simples)
   - [3.08 Convertendo o Pseudocódigo 2 em programação Python - Parte 1/3](#308-convertendo-o-pseudocódigo-2-em-programação-python---parte-13)
   - [3.09 Convertendo o Pseudocódigo 2 em programação Python - Parte 2/3](#309-convertendo-o-pseudocódigo-2-em-programação-python---parte-23)
+  - [3.10 Convertendo o Pseudocódigo 2 em programação Python - Parte 3/3](#310-convertendo-o-pseudocódigo-2-em-programação-python---parte-33)
 
 # Introdução
 
@@ -588,5 +589,11 @@ Fim
 ## 3.09 Convertendo o Pseudocódigo 2 em programação Python - Parte 2/3
 
 [Vídeo](https://youtu.be/rbrNje7OefQ)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/94edccf62f4bbdb8faa2299d4d5c62cfdfff603a)
+
+## 3.10 Convertendo o Pseudocódigo 2 em programação Python - Parte 3/3
+
+[Vídeo](https://youtu.be/To0JJVImnH4)
 
 [Commit]()
