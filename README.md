@@ -52,7 +52,8 @@
     - [Pseudocódigo 1 - Calcular a área de um paralelogramo](#pseudocódigo-1---calcular-a-área-de-um-paralelogramo)
   - [3.06 Convertendo o pseudocódigo 1 em Programação Python](#306-convertendo-o-pseudocódigo-1-em-programação-python)
   - [3.07 Pseudocódigo 2 - Calculadora simples](#307-pseudocódigo-2---calculadora-simples)
-  - [3.08 Convertendo o Pseudocódigo 2 em programação Python - Parte 1/2](#308-convertendo-o-pseudocódigo-2-em-programação-python---parte-12)
+  - [3.08 Convertendo o Pseudocódigo 2 em programação Python - Parte 1/3](#308-convertendo-o-pseudocódigo-2-em-programação-python---parte-13)
+  - [3.09 Convertendo o Pseudocódigo 2 em programação Python - Parte 2/3](#309-convertendo-o-pseudocódigo-2-em-programação-python---parte-23)
 
 # Introdução
 
@@ -578,8 +579,14 @@ Fim
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/d4b2c3e0b2ecfd763cb7a7cef4632c2b635f5174)
 
-## 3.08 Convertendo o Pseudocódigo 2 em programação Python - Parte 1/2
+## 3.08 Convertendo o Pseudocódigo 2 em programação Python - Parte 1/3
 
 [Vídeo](https://youtu.be/-NMcuiXMOdw)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/ba9f69505829236f635297338d4dd3bca395a68f)
+
+## 3.09 Convertendo o Pseudocódigo 2 em programação Python - Parte 2/3
+
+[Vídeo](https://youtu.be/rbrNje7OefQ)
 
 [Commit]()

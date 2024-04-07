@@ -6,14 +6,15 @@ operacao = input("Insira a operação desejada (+, -, *, /): ")
 
 if operacao == "+":
     resultado = num1 + num2
+    print("O resultado é:", resultado)
 elif operacao == "-":
     resultado = num1 - num2
+    print("O resultado é:", resultado)
 elif operacao == "*":
     resultado = num1 * num2
+    print("O resultado é:", resultado)
 elif operacao == "/":
     resultado = num1 / num2
+    print("O resultado é:", resultado)
 else:
     print("Operação inválida!")
-    exit
-
-print("O resultado é:", resultado)
