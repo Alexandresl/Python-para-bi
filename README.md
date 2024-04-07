@@ -50,6 +50,7 @@
     - [Exemplo de problema resolvido em pseudocódigo](#exemplo-de-problema-resolvido-em-pseudocódigo)
   - [3.05 Pseudocódigo 1 - Calcular a área de um paralelogramo](#305-pseudocódigo-1---calcular-a-área-de-um-paralelogramo)
     - [Pseudocódigo 1 - Calcular a área de um paralelogramo](#pseudocódigo-1---calcular-a-área-de-um-paralelogramo)
+- [3.06 Convertendo o pseudocódigo 1 em Programação Python](#306-convertendo-o-pseudocódigo-1-em-programação-python)
 
 # Introdução
 
@@ -546,5 +547,11 @@ Fim
 ```
 
 [Vídeo](https://youtu.be/FiOYrRec_P4)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/c6043f62406937b2669e37379e187939893835e8)
+
+# 3.06 Convertendo o pseudocódigo 1 em Programação Python
+
+[Vídeo](https://youtu.be/fKthLHMADtM)
 
 [Commit]()
