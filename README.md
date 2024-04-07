@@ -50,7 +50,8 @@
     - [Exemplo de problema resolvido em pseudocódigo](#exemplo-de-problema-resolvido-em-pseudocódigo)
   - [3.05 Pseudocódigo 1 - Calcular a área de um paralelogramo](#305-pseudocódigo-1---calcular-a-área-de-um-paralelogramo)
     - [Pseudocódigo 1 - Calcular a área de um paralelogramo](#pseudocódigo-1---calcular-a-área-de-um-paralelogramo)
-- [3.06 Convertendo o pseudocódigo 1 em Programação Python](#306-convertendo-o-pseudocódigo-1-em-programação-python)
+  - [3.06 Convertendo o pseudocódigo 1 em Programação Python](#306-convertendo-o-pseudocódigo-1-em-programação-python)
+  - [3.07 Pseudocódigo 2 - Calculadora simples](#307-pseudocódigo-2---calculadora-simples)
 
 # Introdução
 
@@ -550,8 +551,28 @@ Fim
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/c6043f62406937b2669e37379e187939893835e8)
 
-# 3.06 Convertendo o pseudocódigo 1 em Programação Python
+## 3.06 Convertendo o pseudocódigo 1 em Programação Python
 
 [Vídeo](https://youtu.be/fKthLHMADtM)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/e7300621dfbf55d5a1372e77a1db100f95e44940)
+
+## 3.07 Pseudocódigo 2 - Calculadora simples
+
+```
+Inicie
+  Exiba "Bem-Vindo à Calculadora"
+  Peça para o usuário inserir o primeiro número
+  Armazene o primeiro número em uma variável
+  Peça para o usuário inserir o segundo número
+  Armazene o segundo número em uma variável
+  Peça para o usuário selecionar uma operação (+, -, *, /)
+  Armazene a operação em uma variável
+  Utilize a operação selecionada e os números armazenados para realizar o cálculo
+  Exiba o resultado  
+Fim
+```
+
+[Vídeo](https://youtu.be/guI2y-s8PeU)
 
 [Commit]()
