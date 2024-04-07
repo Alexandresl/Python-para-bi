@@ -1,6 +1,4 @@
-# 1. Introdução
-
-- [1. Introdução](#1-introdução)
+- [Introdução](#introdução)
   - [1.01 Bem-vindo ao curso fundamentos de linguagem Python para análise de dados e Data Science](#101-bem-vindo-ao-curso-fundamentos-de-linguagem-python-para-análise-de-dados-e-data-science)
   - [1.02 Por que devemos aprender a programar?](#102-por-que-devemos-aprender-a-programar)
   - [1.03 Perguntas e respostas](#103-perguntas-e-respostas)
@@ -48,7 +46,10 @@
   - [3.01 Introdução](#301-introdução)
   - [3.02 Qual o grande equívoco que impede as pessoas de aprenderem programação?](#302-qual-o-grande-equívoco-que-impede-as-pessoas-de-aprenderem-programação)
   - [3.03 O que é lógica de programação?](#303-o-que-é-lógica-de-programação)
+  - [3.04 O que é Pseudocódigo?](#304-o-que-é-pseudocódigo)
+    - [Exemplo de problema resolvido em pseudocódigo](#exemplo-de-problema-resolvido-em-pseudocódigo)
 
+# Introdução
 
 ## 1.01 Bem-vindo ao curso fundamentos de linguagem Python para análise de dados e Data Science
 
@@ -481,5 +482,44 @@ Uma das principais razões pelas quais as pessoas têm dificuldade em aprender p
 A lógica de programação é o conjunto de princípios e técnicas utilizadas para desenvolver algoritmos eficientes e corretos que podem ser usados para resolver problemas computacionais. Ela é a base da programação, e envolve a capacidade de pensar de forma lógica e estruturada, bem como a habilidade de expressar essas ideias usando uma linguagem de programação. A lógica de programação inclui conceitos como fluxo de controle, estruturas de decisão, laços de repetição, funções e procedimentos, entre outros. Aprender a lógica de programação é essencial para se tornar um programador eficiente e para ser capaz de resolver problemas de forma estruturada e eficiente.
 
 [Vídeo](https://youtu.be/GaneB1A92N8)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/d2b1f380a3e906c5c66e8ad4b89b7c0ef86c1fdb)
+
+## 3.04 O que é Pseudocódigo?
+
+**Resposta gerada pelo ChatGPT:**
+
+Pseudocódigo é uma notação informal usada para expressar ideias e algoritmos de forma clara e compreensível, sem se preocupar com a sintaxe precisa de uma linguagem de programação específica. Ele é usado para planejar ou explicar um algoritmos antes de escrever o código efetivo. O Pseudocódigo usa uma mistura de palavras-chave, frases e estruturas de sintaxe que são comuns a muitas linguagens de programação, mas não segue rigorosamente as regras de nenhuma delas. Isso permite que as pessoas se concentrem nas ideias e lógicas do algoritmo, sem se preocupar com os detalhes da linguagem de programação. Ele é amplamente utilizada por programadores, professores e estudantes como uma maneira de desenvolver e comunicar algoritmos.
+
+### Exemplo de problema resolvido em pseudocódigo
+
+*Descreva um pseudocódigo para calcular a área de um paralelogramo*:
+
+**Resposta gerada pelo ChatGPT:**
+
+Para calcular a área de um paralelogramo, podemos seguir os seguintes passos:
+
+1. Declare as variáveis comprimento e altura.
+2. Peça ao usuário para fornecer os valores do comprimento e altura.
+3. Calcule a área multiplicando comprimento pela altura.
+4. Armazene o resultado na variável "área".
+5. Imprima o valor da variável "área".
+
+Aqui está um exemplo de pseudocódigo que implementa esses passos:
+
+```
+Declare comprimento, altura, area
+
+Obtenha comprimento do usuário
+Obtenha altura do usuário
+
+area <- comprimento * altura
+
+Imprima "A área do paralelogramo é: " + area
+```
+
+Este pseudocódigo usa palavras-chave como "declare" e "obtenha" para expressar ações específicas, e sinais matemáticos como "*" para expressar cálculos. Ele também usa a notação de atribuição "<-" para armazenar o resultado da área em uma variável.
+
+[Vídeo](https://youtu.be/kaPRi2uh5qk)
 
 [Commit]()
