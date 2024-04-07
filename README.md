@@ -55,6 +55,7 @@
   - [3.08 Convertendo o Pseudocódigo 2 em programação Python - Parte 1/3](#308-convertendo-o-pseudocódigo-2-em-programação-python---parte-13)
   - [3.09 Convertendo o Pseudocódigo 2 em programação Python - Parte 2/3](#309-convertendo-o-pseudocódigo-2-em-programação-python---parte-23)
   - [3.10 Convertendo o Pseudocódigo 2 em programação Python - Parte 3/3](#310-convertendo-o-pseudocódigo-2-em-programação-python---parte-33)
+  - [3.11 Pseudocódigo 3 - Algoritmo Bubble Sort](#311-pseudocódigo-3---algoritmo-bubble-sort)
 
 # Introdução
 
@@ -595,5 +596,22 @@ Fim
 ## 3.10 Convertendo o Pseudocódigo 2 em programação Python - Parte 3/3
 
 [Vídeo](https://youtu.be/To0JJVImnH4)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/e374cbaf29c1b0e19f45450e34dfb0bbd20b85a1)
+
+## 3.11 Pseudocódigo 3 - Algoritmo Bubble Sort
+
+Bubble Sort é um algoritmo de ordenação simples que funciona comparando cada elemento com o próximo, e trocando-os de lugar se eles estiverem em ordem incorreta. O algoritmo repete esse processo várias vezes, até que todos os elementos estejam ordenados. A cada passagem, o maior elemento "flutua" para o final do array, como uma bolha, dando origem ao nome do algoritmo.
+
+```
+Inicie
+  Para cada elemento i no array de tamanho n
+    Para cada elemento j no array de tamanho n - 1
+      Se o elemento i for maior que elemento j
+        troque os elementos i e j
+Fim
+```
+
+[Vídeo](https://youtu.be/u-YT9Hx3PY0)
 
 [Commit]()
