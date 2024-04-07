@@ -59,6 +59,7 @@
   - [3.12 Convertendo o Pseudocódigo 3 em programação Python - Parte 1/2](#312-convertendo-o-pseudocódigo-3-em-programação-python---parte-12)
   - [3.13 Convertendo o Pseudocódigo 3 em programação Python - Parte 2/2](#313-convertendo-o-pseudocódigo-3-em-programação-python---parte-22)
   - [3.14 Conclusão](#314-conclusão)
+  - [3.15 Arquivos do capítulo](#315-arquivos-do-capítulo)
 
 # Introdução
 
@@ -634,5 +635,11 @@ Fim
 ## 3.14 Conclusão
 
 [Vídeo](https://youtu.be/J7ILuKnNdI4)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/e28accd34ebd85d0028833c58a9546c691d40b1f)
+
+## 3.15 Arquivos do capítulo
+
+[Arquivo](./Cap03/71-Cap03.zip)
 
 [Commit]()
