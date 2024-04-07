@@ -48,6 +48,8 @@
   - [3.03 O que é lógica de programação?](#303-o-que-é-lógica-de-programação)
   - [3.04 O que é Pseudocódigo?](#304-o-que-é-pseudocódigo)
     - [Exemplo de problema resolvido em pseudocódigo](#exemplo-de-problema-resolvido-em-pseudocódigo)
+  - [3.05 Pseudocódigo 1 - Calcular a área de um paralelogramo](#305-pseudocódigo-1---calcular-a-área-de-um-paralelogramo)
+    - [Pseudocódigo 1 - Calcular a área de um paralelogramo](#pseudocódigo-1---calcular-a-área-de-um-paralelogramo)
 
 # Introdução
 
@@ -521,5 +523,28 @@ Imprima "A área do paralelogramo é: " + area
 Este pseudocódigo usa palavras-chave como "declare" e "obtenha" para expressar ações específicas, e sinais matemáticos como "*" para expressar cálculos. Ele também usa a notação de atribuição "<-" para armazenar o resultado da área em uma variável.
 
 [Vídeo](https://youtu.be/kaPRi2uh5qk)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/aebd7a127fa7f2c8d4b08c488f68f9af1a1e4907)
+
+## 3.05 Pseudocódigo 1 - Calcular a área de um paralelogramo
+
+### Pseudocódigo 1 - Calcular a área de um paralelogramo
+
+Nota: Um paralelogramo é um quadrilátero com lados opostos paralelos(e portanto ângulos opostos iguais). Um quadrilátero com lados iguais é chamado de losango e um paralelogramo cujos ângulos são todos ângulos retos é chamado de retângulo.
+
+```
+Inicie
+  Exiba "Bem-Vindo ao Calculador de Área de paralelogramo"
+  Peça para o usuário inserir o comprimento da base
+  Armazene o comprimento da base em uma variável
+  Peça para o usuário inserir a altura
+  Armazene a altura em uma variável
+  Calcule a área do paralelogramo: base * altura
+  Armazene o resultado em uma variável
+  Exiba o resultado
+Fim
+```
+
+[Vídeo](https://youtu.be/FiOYrRec_P4)
 
 [Commit]()
