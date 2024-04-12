@@ -61,6 +61,8 @@
   - [3.14 Conclusão](#314-conclusão)
   - [3.15 Arquivos do capítulo](#315-arquivos-do-capítulo)
   - [3.16 Bibliografia, referências e links úteis](#316-bibliografia-referências-e-links-úteis)
+- [4. Linguagem Python Nível Introdutório - Variáveis, Tipos e Estruturas de Dados](#4-linguagem-python-nível-introdutório---variáveis-tipos-e-estruturas-de-dados)
+  - [4.01 Introdução](#401-introdução)
 
 # Introdução
 
@@ -651,5 +653,15 @@ Curso Bônus de Introdução à Lógica de Programação
 (Gratuito e Exclusivo Para Alunos das Formações DSA)
 
 [https://www.datascienceacademy.com.br/course/modulos-extras-de-capacitacao-profissional](https://www.datascienceacademy.com.br/course/modulos-extras-de-capacitacao-profissional)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/8d6dc03d8880fbfc39f5870a38ca6f93297f47ea)
+
+# 4. Linguagem Python Nível Introdutório - Variáveis, Tipos e Estruturas de Dados
+
+## 4.01 Introdução
+
+Seja bem-vindo ao Capítulo 4. Este capítulo traz para você programação em linguagem Python a partir do ponto mais básico possível, começando do 2 + 2 em Python.
+
+Durante o capítulo vamos avançar no estudo das operações matemáticas com linguagem, variáveis, tipos de dados, strings, indexação e estruturas de dados. E ao final você ainda encontra a primeira lisga de exercícios para praticar seu conhecimento. Acompanhe as aulas sempre na sequência. Bons estudos.
 
 [Commit]()
