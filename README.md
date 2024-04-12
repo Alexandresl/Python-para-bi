@@ -63,6 +63,7 @@
   - [3.16 Bibliografia, referências e links úteis](#316-bibliografia-referências-e-links-úteis)
 - [4. Linguagem Python Nível Introdutório - Variáveis, Tipos e Estruturas de Dados](#4-linguagem-python-nível-introdutório---variáveis-tipos-e-estruturas-de-dados)
   - [4.01 Introdução](#401-introdução)
+  - [4.02 Inicializando o Ambiente de trabalho](#402-inicializando-o-ambiente-de-trabalho)
 
 # Introdução
 
@@ -663,5 +664,11 @@ Curso Bônus de Introdução à Lógica de Programação
 Seja bem-vindo ao Capítulo 4. Este capítulo traz para você programação em linguagem Python a partir do ponto mais básico possível, começando do 2 + 2 em Python.
 
 Durante o capítulo vamos avançar no estudo das operações matemáticas com linguagem, variáveis, tipos de dados, strings, indexação e estruturas de dados. E ao final você ainda encontra a primeira lisga de exercícios para praticar seu conhecimento. Acompanhe as aulas sempre na sequência. Bons estudos.
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/dfd2a88b0202dacf701cf1b6fde0b6b3c312430d)
+
+## 4.02 Inicializando o Ambiente de trabalho
+
+[Vídeo](https://youtu.be/Q-FdylEe7GE)
 
 [Commit]()
