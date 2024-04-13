@@ -69,6 +69,7 @@
   - [4.05 Variáveis e Operadores em Python - Parte 1/2](#405-variáveis-e-operadores-em-python---parte-12)
   - [4.06 Variáveis e Operadores em Python - Parte 2/2](#406-variáveis-e-operadores-em-python---parte-22)
   - [4.07 String e Indexação em Python - Parte 1/3](#407-string-e-indexação-em-python---parte-13)
+  - [4.08 Strings e Indexação em Python - Parte 2/3](#408-strings-e-indexação-em-python---parte-23)
 
 
 # 1. Introdução
@@ -828,5 +829,11 @@ Durante o capítulo vamos avançar no estudo das operações matemáticas com li
 [Jupyter Notebook](./Cap04/DSA-Python-Cap04-03-Strings.ipynb)
 
 [Vídeo](https://youtu.be/kG_A5XsHuL0)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/496b7204cf79ed5a5b274832c628a63da2735c40)
+
+## 4.08 Strings e Indexação em Python - Parte 2/3
+
+[Vídeo](https://youtu.be/_gm6bT0c5JQ)
 
 [Commit]()
