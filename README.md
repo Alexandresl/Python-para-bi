@@ -64,6 +64,7 @@
 - [4. Linguagem Python Nível Introdutório - Variáveis, Tipos e Estruturas de Dados](#4-linguagem-python-nível-introdutório---variáveis-tipos-e-estruturas-de-dados)
   - [4.01 Introdução](#401-introdução)
   - [4.02 Inicializando o Ambiente de trabalho](#402-inicializando-o-ambiente-de-trabalho)
+  - [4.0.2 Números e operações matemáticas em Python - Parte 1/2](#402-números-e-operações-matemáticas-em-python---parte-12)
 
 # Introdução
 
@@ -670,5 +671,11 @@ Durante o capítulo vamos avançar no estudo das operações matemáticas com li
 ## 4.02 Inicializando o Ambiente de trabalho
 
 [Vídeo](https://youtu.be/Q-FdylEe7GE)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/2ad8d7c601b384c9ff549b1b4bb31c67c4d5be03)
+
+## 4.0.2 Números e operações matemáticas em Python - Parte 1/2
+
+[Vídeo](https://youtu.be/GCXSjuMbS9U)
 
 [Commit]()
