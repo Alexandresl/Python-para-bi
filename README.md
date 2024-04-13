@@ -67,6 +67,7 @@
   - [4.03 Números e operações matemáticas em Python - Parte 1/2](#403-números-e-operações-matemáticas-em-python---parte-12)
   - [4.04 Números e operações matemáticas em Python - Parte 2/2](#404-números-e-operações-matemáticas-em-python---parte-22)
   - [4.05 Variáveis e Operadores em Python - Parte 1/2](#405-variáveis-e-operadores-em-python---parte-12)
+  - [4.06 Variáveis e Operadores em Python - Parte 2/2](#406-variáveis-e-operadores-em-python---parte-22)
 
 
 # 1. Introdução
@@ -812,5 +813,11 @@ Durante o capítulo vamos avançar no estudo das operações matemáticas com li
 [Jupyter Notebook](./Cap04/DSA-Python-Cap04-02-Variaveis.ipynb)
 
 [Vídeo](https://youtu.be/xaU18HKQu9g)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/33856d49dd20cfecd1bfc950a172925e1eb310c3)
+
+## 4.06 Variáveis e Operadores em Python - Parte 2/2
+
+[Vídeo](https://youtu.be/v3zw-LtcHN0)
 
 [Commit]()
