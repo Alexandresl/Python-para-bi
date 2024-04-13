@@ -71,6 +71,7 @@
   - [4.07 String e Indexação em Python - Parte 1/3](#407-string-e-indexação-em-python---parte-13)
   - [4.08 Strings e Indexação em Python - Parte 2/3](#408-strings-e-indexação-em-python---parte-23)
   - [4.09 Strings e Indexação em Python - Parte 3/3](#409-strings-e-indexação-em-python---parte-33)
+  - [4.10 Estrutura de Dados - Trabalhando com Listas em Python - Parte 1 / 3](#410-estrutura-de-dados---trabalhando-com-listas-em-python---parte-1--3)
 
 
 # 1. Introdução
@@ -842,5 +843,13 @@ Durante o capítulo vamos avançar no estudo das operações matemáticas com li
 ## 4.09 Strings e Indexação em Python - Parte 3/3
 
 [Vídeo](https://youtu.be/x1tMeVBL7Ug)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/611d8fff4010b491aa03721fb54201d0d2b073ac)
+
+## 4.10 Estrutura de Dados - Trabalhando com Listas em Python - Parte 1 / 3
+
+[Jupyter Notebook](./Cap04/DSA-Python-Cap04-04-Listas.ipynb)
+
+[Vídeo](https://youtu.be/XXtQtO92sk0)
 
 [Commit]()
