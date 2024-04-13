@@ -1,5 +1,5 @@
-- [Introdução](#introdução)
-  - [1.01 Bem-vindo ao curso fundamentos de linguagem Python para análise de dados e Data Science](#101-bem-vindo-ao-curso-fundamentos-de-linguagem-python-para-análise-de-dados-e-data-science)
+- [1. Introdução](#1-introdução)
+  - [1.01 Bem-vindo ao curso fundamentos de Linguagem Python para Análise de dados e Data Science](#101-bem-vindo-ao-curso-fundamentos-de-linguagem-python-para-análise-de-dados-e-data-science)
   - [1.02 Por que devemos aprender a programar?](#102-por-que-devemos-aprender-a-programar)
   - [1.03 Perguntas e respostas](#103-perguntas-e-respostas)
   - [1.04 Navegando pela Data Science Academy](#104-navegando-pela-data-science-academy)
@@ -64,11 +64,13 @@
 - [4. Linguagem Python Nível Introdutório - Variáveis, Tipos e Estruturas de Dados](#4-linguagem-python-nível-introdutório---variáveis-tipos-e-estruturas-de-dados)
   - [4.01 Introdução](#401-introdução)
   - [4.02 Inicializando o Ambiente de trabalho](#402-inicializando-o-ambiente-de-trabalho)
-  - [4.0.2 Números e operações matemáticas em Python - Parte 1/2](#402-números-e-operações-matemáticas-em-python---parte-12)
+  - [4.03 Números e operações matemáticas em Python - Parte 1/2](#403-números-e-operações-matemáticas-em-python---parte-12)
+  - [4.04 Números e operações matemáticas em Python - Parte 2/2](#404-números-e-operações-matemáticas-em-python---parte-22)
 
-# Introdução
 
-## 1.01 Bem-vindo ao curso fundamentos de linguagem Python para análise de dados e Data Science
+# 1. Introdução
+
+## 1.01 Bem-vindo ao curso fundamentos de Linguagem Python para Análise de dados e Data Science
 
 Prezado aluno,
 
@@ -409,11 +411,33 @@ Este Lab está imperdível. Acompanhe as aulas na sequência.
 
 ## 2.15 Lab 1 - Introdução à linguagem Python
 
+**Descreva a linguagem Python**
+
+**Resposta gerada pelo ChatGPT:**
+
+Python é uma linguagem de programação de alto nível e interpretada. Ela foi criada por Guido Van Rossum em 1989 e tem uma sintaxe simples e fácil de aprender, tornando-a uma boa opção para iniciantes. Python é usado para desenvolvimento web, inteligência artificial, ciência de dados, análise de dados e muitos outros campos. Ele possui uma ampla variedade de bibliotecas e frameworks, o que o torna uma das linguagens de programação mais populares e versáteis disponíveis hoje.
+
+**Como surgiu a Linguagem Python**
+
+**Resposta gerada pelo ChatGPT:**
+
+A linguagem Python foi criada por Guido Van Rossum em 1989, durante o seu tempo livre, como um projeto pessoal. Ele queria criar uma linguagem de programação de alto nível que fosse fácil de aprender e usar, com uma sintaxe clara e concisa. Ele escolheu o nome "Python" como uma homenagem ao grupo de comédia britânico *Monty Python*
+
+A primeira versão do Python foi lançada em 1991 e deste então, a linguagem tem sido continuamente desenvolvida e atualizada. A versão mais recente é Python 3.10.0 lançado em 20221. O Python tem se tornado cada vez mais popular ao longo dos anos devido à sua simplicidade, flexibilidade e capacidade de ser usado em uma ampla variedade de aplicações e campos.
+
 [Vídeo](https://youtu.be/FdScmoTqYcY)
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/8b20fe4f7d6dda59c2a6224108f2e768a4b35bb2)
 
 ## 2.16 Lab 1 - É fácil aprender a linguagem Python?
+
+**Resposta gerada pelo ChatGPT:**
+
+Python é conhecida por ser uma linguagem fácil de aprender devido à sua sintaxe simples e clara. A sintaxe do Python é muito similar à linguagem inglesa, o que ajuda os iniciantes a entender o código mais facilmente. Além disso, há uma grande variedade de recursos e documentação disponíveis, incluindo tutoriais, guias e livros, que podem ajudar os iniciantes a aprender a programar em Python.
+
+Python também tem uma comunidade ativa e amigável. com muitos desenvolvedores experientes dispostos a ajudar os novos usuários. E com a sua ampla aplicabilidade, é fácil encontrar exemplos e projetos para se inspirar e aprender.
+
+É claro que como qualquer linguagem de programação, o aprendizado de Python requer tempo e esforço, ma em geral, é considerado uma linguagem bastante acessível e fácil de aprender para programadores iniciantes.
 
 [Vídeo](https://youtu.be/ZUD7PJctBho)
 
@@ -421,17 +445,50 @@ Este Lab está imperdível. Acompanhe as aulas na sequência.
 
 ## 2.17 Lab 1 - O ChatGPT (Inteligência Artificial) Pode Substituir Professores e Instrutores?
 
+**Resposta gerada pelo ChatGPT:**
+
+Como modelo de linguagem treinado por computador, minha função é auxiliar os usuários a obter respostas e informações, mas não sou capaz de substituir professores ou instrutores humanos. Eu posso ajudar a fornecer informações e exemplos, mas os professores e instrutores humanos são os melhores em fornecer contexto, feedback, orientação e ensinar habilidades práticas.
+
 [Vídeo](https://youtu.be/dW0SIOnB_xA)
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/1427b15e6aecb03437f38c9718f77880bc102ab6)
 
 ## 2.18 Lab 1 - Gerando código Python com ChatGPT
 
+*Gere código Python que cria uma lista com números entre 1 e 100 e então imprima os números pares, mas somente se o número for divisível por 4.*
+
+**Resposta gerada pelo ChatGPT:**
+
+```python
+# Cria uma lista com os números entre 1 e 100
+numeros = list(range(1,101))
+
+# Percorre a lista e verifica se o número é par e divisível por 4
+for numero in numeros:
+  if numero % 2 == 0 and numero % 4 == 0:
+    print(numero)
+```
+
 [Vídeo](https://youtu.be/VpLLNuZKzug)
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/984d23294eba91e6cbdfd87c7a5f39a8eff2298c)
 
 ## 2.19 Lab 1 - Primeiros passos com a Linguagem Python - Parte 1/2
+
+*Gere código Python que cria uma lista com números entre 1 e 100 e então imprima os números pares, mas somente se o número for divisível por 4, usando list comprehension.*
+
+**Resposta gerada pelo ChatGPT:**
+
+```python
+# cria uma lista com os números entre 1 e 100
+numeros = list(range(1, 101))
+
+# Usa a list comprehension para gerar uma lista somente com os números pares e divisíveis por 4
+pares_div4 = [numero for numero in numeros if numero % 2 == 0 and numero % 4 == 0]
+
+# Imprime a lista gerada
+print(pares_div4)
+```
 
 [Vídeo](https://youtu.be/gMxzuaBsEyk)
 
@@ -566,6 +623,18 @@ Fim
 
 ## 3.06 Convertendo o pseudocódigo 1 em Programação Python
 
+```python
+print("Bem-vindo ao Calculador de Área de Paralelogramo")
+
+base = float(input("Insira o comprimento da base:"))
+
+altura = float(input("Insira a altura:"))
+
+area = base * altura
+
+print("A área do paralelogramo é:", area)
+```
+
 [Vídeo](https://youtu.be/fKthLHMADtM)
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/e7300621dfbf55d5a1372e77a1db100f95e44940)
@@ -591,6 +660,31 @@ Fim
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/d4b2c3e0b2ecfd763cb7a7cef4632c2b635f5174)
 
 ## 3.08 Convertendo o Pseudocódigo 2 em programação Python - Parte 1/3
+
+```python
+print("Bem-Vindo à Calculadora")
+
+num1 = float(input("Digite o primeiro número: "))
+
+num2 = float(input("Digite o segundo número: "))
+
+operacao = input("Digite a operação (+, -, *, /)")
+
+if operacao == "+":
+    resultado = num1 + num2
+    print("O resultado é:", resultado)
+elif operacao == "-":
+    resultado = num1 - num2
+    print("O resultado é:", resultado)
+elif operacao == "*":
+    resultado = num1 * num2
+    print("O resultado é:", resultado)
+elif operacao == "/":
+    resultado = num1 / num2
+    print("O resultado é:", resultado)
+else:
+    print("Operação inválida")
+```
 
 [Vídeo](https://youtu.be/-NMcuiXMOdw)
 
@@ -618,6 +712,7 @@ Inicie
     Para cada elemento j no array de tamanho n - 1
       Se o elemento i for maior que elemento j
         troque os elementos i e j
+  Exiba o array ordenado
 Fim
 ```
 
@@ -626,6 +721,29 @@ Fim
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/878cb2e9296cc0ae2c61c42600d82f1720216257)
 
 ## 3.12 Convertendo o Pseudocódigo 3 em programação Python - Parte 1/2
+
+```python
+lista = [6, 7, 8, 3, 10, 19, 4, 1, 0, 61, 30, 16, 17, 82, 29, 34, 43, 21, 11, 39, 56, 67, 12]
+
+def bubble_sort(arr):
+    
+    n = len(arr)
+    
+    # Para cada elemento i do array
+    for i in range(n):
+        
+        # Para cada elemento j do array
+        for j in range(0, n-i-1):
+            
+            # Se elemento i for maior que elemento j
+            if arr[j] > arr[j+1]:
+                
+                # Troque os elementos i e j
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+    return arr
+
+print(bubble_sort(lista))
+```
 
 [Vídeo](https://youtu.be/kIS0Ezkfutg)
 
@@ -674,8 +792,16 @@ Durante o capítulo vamos avançar no estudo das operações matemáticas com li
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/2ad8d7c601b384c9ff549b1b4bb31c67c4d5be03)
 
-## 4.0.2 Números e operações matemáticas em Python - Parte 1/2
+## 4.03 Números e operações matemáticas em Python - Parte 1/2
+
+[Jupyter Notebook](./Cap04/DSA-Python-Cap04-01-Numeros.ipynb)
 
 [Vídeo](https://youtu.be/GCXSjuMbS9U)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/51abef1515d3d78ca4ddccbbb5bf6ae7f434abe3)
+
+## 4.04 Números e operações matemáticas em Python - Parte 2/2
+
+[Vídeo](https://youtu.be/ZLnQAsIp-6Y)
 
 [Commit]()
