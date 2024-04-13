@@ -70,6 +70,7 @@
   - [4.06 Variáveis e Operadores em Python - Parte 2/2](#406-variáveis-e-operadores-em-python---parte-22)
   - [4.07 String e Indexação em Python - Parte 1/3](#407-string-e-indexação-em-python---parte-13)
   - [4.08 Strings e Indexação em Python - Parte 2/3](#408-strings-e-indexação-em-python---parte-23)
+  - [4.09 Strings e Indexação em Python - Parte 3/3](#409-strings-e-indexação-em-python---parte-33)
 
 
 # 1. Introdução
@@ -835,5 +836,11 @@ Durante o capítulo vamos avançar no estudo das operações matemáticas com li
 ## 4.08 Strings e Indexação em Python - Parte 2/3
 
 [Vídeo](https://youtu.be/_gm6bT0c5JQ)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/3caea3e656a3a81682584b4040966e78dd718d8d)
+
+## 4.09 Strings e Indexação em Python - Parte 3/3
+
+[Vídeo](https://youtu.be/x1tMeVBL7Ug)
 
 [Commit]()
