@@ -78,6 +78,7 @@
   - [4.14 Estruturas de Dados - Trabalhando com Dicionários em Python - Parte 2/2](#414-estruturas-de-dados---trabalhando-com-dicionários-em-python---parte-22)
   - [4.15 Estruturas de Dados - Trabalhando com Tuplas em Python](#415-estruturas-de-dados---trabalhando-com-tuplas-em-python)
   - [4.16 Lista de exercícios](#416-lista-de-exercícios)
+  - [4.17 Arquivos do Capítulo](#417-arquivos-do-capítulo)
 
 
 # 1. Introdução
@@ -899,5 +900,11 @@ Durante o capítulo vamos avançar no estudo das operações matemáticas com li
 [Jupyter Notebook - Lista de exercícios](./Cap04/DSA-Python-Cap04-Exercicios.ipynb)
 
 [Jupyter Notebook - Solução dos exercícios](./Cap04/DSA-Python-Cap04-Exercicios-Solucao.ipynb)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/f26b8c6c13c8c1bb132a5960cc2c8f8b9dd8637c)
+
+## 4.17 Arquivos do Capítulo
+
+[Arquivo](./Cap04/43-Cap04.zip)
 
 [Commit]()
