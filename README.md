@@ -79,6 +79,7 @@
   - [4.15 Estruturas de Dados - Trabalhando com Tuplas em Python](#415-estruturas-de-dados---trabalhando-com-tuplas-em-python)
   - [4.16 Lista de exercícios](#416-lista-de-exercícios)
   - [4.17 Arquivos do Capítulo](#417-arquivos-do-capítulo)
+  - [4.18 Bibliografia, Referência e Links úteis](#418-bibliografia-referência-e-links-úteis)
 
 
 # 1. Introdução
@@ -906,5 +907,11 @@ Durante o capítulo vamos avançar no estudo das operações matemáticas com li
 ## 4.17 Arquivos do Capítulo
 
 [Arquivo](./Cap04/43-Cap04.zip)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/67120cb3bc634133a3806a090be54eeb36afddbe)
+
+## 4.18 Bibliografia, Referência e Links úteis
+
+[Documentação Oficial da Linguagem Python](https://docs.python.org/pt-br/3/)
 
 [Commit]()
