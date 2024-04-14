@@ -76,6 +76,7 @@
   - [4.12 Estrutura de Dados - Trabalhando com Listas em Python - Parte 3/3](#412-estrutura-de-dados---trabalhando-com-listas-em-python---parte-33)
   - [4.13 Estruturas de Dados - Trabalhando com Dicionários em Python - Parte 1/2](#413-estruturas-de-dados---trabalhando-com-dicionários-em-python---parte-12)
   - [4.14 Estruturas de Dados - Trabalhando com Dicionários em Python - Parte 2/2](#414-estruturas-de-dados---trabalhando-com-dicionários-em-python---parte-22)
+  - [4.15 Estruturas de Dados - Trabalhando com Tuplas em Python](#415-estruturas-de-dados---trabalhando-com-tuplas-em-python)
 
 
 # 1. Introdução
@@ -872,7 +873,7 @@ Durante o capítulo vamos avançar no estudo das operações matemáticas com li
 
 ## 4.13 Estruturas de Dados - Trabalhando com Dicionários em Python - Parte 1/2
 
-[Jupyter Notebook](./Cap04/DSA-Python-Cap04--05-Dicionarios.ipynb)
+[Jupyter Notebook](./Cap04/DSA-Python-Cap04-05-Dicionarios.ipynb)
 
 [Vídeo](https://youtu.be/QKEF97aU0_M)
 
@@ -881,5 +882,13 @@ Durante o capítulo vamos avançar no estudo das operações matemáticas com li
 ## 4.14 Estruturas de Dados - Trabalhando com Dicionários em Python - Parte 2/2
 
 [Vídeo](https://youtu.be/c19_m4N36w4)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/7b9b4925a81890a8b039b2b8d6586616a91fd231)
+
+## 4.15 Estruturas de Dados - Trabalhando com Tuplas em Python
+
+[Jupyter Notebook](./Cap04/DSA-Python-Cap04-06-Tuplas.ipynb)
+
+[Vídeo](https://youtu.be/jewUN4BeZWU)
 
 [Commit]()
