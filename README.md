@@ -83,6 +83,7 @@
 - [5. Linguagem Python Nível Introdutório - Loops, Condicionais, Métodos e Funções](#5-linguagem-python-nível-introdutório---loops-condicionais-métodos-e-funções)
   - [5.01 Introdução](#501-introdução)
   - [5.02 Inicializando o Ambiente de Trabalho](#502-inicializando-o-ambiente-de-trabalho)
+  - [5.03 Trabalhando com condicionais em Python](#503-trabalhando-com-condicionais-em-python)
 
 
 # 1. Introdução
@@ -934,5 +935,13 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 ## 5.02 Inicializando o Ambiente de Trabalho
 
 [Vídeo](https://youtu.be/9OCS0HHOm5M)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/92cd39bfc9bcffac40bd931c23f50171e8a523f3)
+
+## 5.03 Trabalhando com condicionais em Python
+
+[Jupyter Notebook](./Cap05/notebooks/DSA-Python-Cap05-01-Condicionais.ipynb)
+
+[Vídeo](https://youtu.be/YwQQFB3JtDw)
 
 [Commit]()
