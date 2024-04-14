@@ -82,6 +82,7 @@
   - [4.18 Bibliografia, Referência e Links úteis](#418-bibliografia-referência-e-links-úteis)
 - [5. Linguagem Python Nível Introdutório - Loops, Condicionais, Métodos e Funções](#5-linguagem-python-nível-introdutório---loops-condicionais-métodos-e-funções)
   - [5.01 Introdução](#501-introdução)
+  - [5.02 Inicializando o Ambiente de Trabalho](#502-inicializando-o-ambiente-de-trabalho)
 
 
 # 1. Introdução
@@ -927,5 +928,11 @@ Seja bem-vindo ao Capítulo 5. Este Capítulo traz para você as estruturas que 
 Durante o capítulo realizaremos uma série de atividades práticas com diversos exemplos. Ao final do capítulo você vai encontrar duas listas de exercícios e teremos ainda a primeira parte do Lab 2.
 
 Acompanhe as aulas sempre na sequência. Bons estudos.
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/f8220b8c29ba5feb53b252064c605201d20ca44c)
+
+## 5.02 Inicializando o Ambiente de Trabalho
+
+[Vídeo](https://youtu.be/9OCS0HHOm5M)
 
 [Commit]()
