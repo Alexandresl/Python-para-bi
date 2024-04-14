@@ -75,6 +75,7 @@
   - [4.11 Estrutura de Dados - Trabalhando com Listas em Python - Parte 2/3](#411-estrutura-de-dados---trabalhando-com-listas-em-python---parte-23)
   - [4.12 Estrutura de Dados - Trabalhando com Listas em Python - Parte 3/3](#412-estrutura-de-dados---trabalhando-com-listas-em-python---parte-33)
   - [4.13 Estruturas de Dados - Trabalhando com Dicionários em Python - Parte 1/2](#413-estruturas-de-dados---trabalhando-com-dicionários-em-python---parte-12)
+  - [4.14 Estruturas de Dados - Trabalhando com Dicionários em Python - Parte 2/2](#414-estruturas-de-dados---trabalhando-com-dicionários-em-python---parte-22)
 
 
 # 1. Introdução
@@ -874,5 +875,11 @@ Durante o capítulo vamos avançar no estudo das operações matemáticas com li
 [Jupyter Notebook](./Cap04/DSA-Python-Cap04--05-Dicionarios.ipynb)
 
 [Vídeo](https://youtu.be/QKEF97aU0_M)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/cd174b07161d8a40053168bee9175aafa3bfe98c)
+
+## 4.14 Estruturas de Dados - Trabalhando com Dicionários em Python - Parte 2/2
+
+[Vídeo](https://youtu.be/c19_m4N36w4)
 
 [Commit]()
