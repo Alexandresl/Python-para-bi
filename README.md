@@ -80,6 +80,8 @@
   - [4.16 Lista de exercícios](#416-lista-de-exercícios)
   - [4.17 Arquivos do Capítulo](#417-arquivos-do-capítulo)
   - [4.18 Bibliografia, Referência e Links úteis](#418-bibliografia-referência-e-links-úteis)
+- [5. Linguagem Python Nível Introdutório - Loops, Condicionais, Métodos e Funções](#5-linguagem-python-nível-introdutório---loops-condicionais-métodos-e-funções)
+  - [5.01 Introdução](#501-introdução)
 
 
 # 1. Introdução
@@ -913,5 +915,17 @@ Durante o capítulo vamos avançar no estudo das operações matemáticas com li
 ## 4.18 Bibliografia, Referência e Links úteis
 
 [Documentação Oficial da Linguagem Python](https://docs.python.org/pt-br/3/)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/950068a6ee95d1ca870fe6df9ea082df688ce9f3)
+
+# 5. Linguagem Python Nível Introdutório - Loops, Condicionais, Métodos e Funções
+
+## 5.01 Introdução
+
+Seja bem-vindo ao Capítulo 5. Este Capítulo traz para você as estruturas que permitem que a programação de computadores realmente seja efetiva: estruturas de repetição, estruturas condicionais e funções.
+
+Durante o capítulo realizaremos uma série de atividades práticas com diversos exemplos. Ao final do capítulo você vai encontrar duas listas de exercícios e teremos ainda a primeira parte do Lab 2.
+
+Acompanhe as aulas sempre na sequência. Bons estudos.
 
 [Commit]()
