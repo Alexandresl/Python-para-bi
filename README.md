@@ -85,6 +85,7 @@
   - [5.02 Inicializando o Ambiente de Trabalho](#502-inicializando-o-ambiente-de-trabalho)
   - [5.03 Trabalhando com condicionais em Python](#503-trabalhando-com-condicionais-em-python)
   - [5.04 Operadores relacionais em Python](#504-operadores-relacionais-em-python)
+  - [5.05 Condicionais aninhados em Python](#505-condicionais-aninhados-em-python)
 
 
 # 1. Introdução
@@ -950,5 +951,11 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 ## 5.04 Operadores relacionais em Python
 
 [Vídeo](https://youtu.be/6I82sjE__OY)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/d23dd47919277bc32bfb739bfc33c2924f41e1a1)
+
+## 5.05 Condicionais aninhados em Python
+
+[Vídeos](https://youtu.be/pTeu6Gvv4co)
 
 [Commit]()
