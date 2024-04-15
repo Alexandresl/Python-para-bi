@@ -84,6 +84,7 @@
   - [5.01 Introdução](#501-introdução)
   - [5.02 Inicializando o Ambiente de Trabalho](#502-inicializando-o-ambiente-de-trabalho)
   - [5.03 Trabalhando com condicionais em Python](#503-trabalhando-com-condicionais-em-python)
+  - [5.04 Operadores relacionais em Python](#504-operadores-relacionais-em-python)
 
 
 # 1. Introdução
@@ -943,5 +944,11 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 [Jupyter Notebook](./Cap05/notebooks/DSA-Python-Cap05-01-Condicionais.ipynb)
 
 [Vídeo](https://youtu.be/YwQQFB3JtDw)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/8b75f21d7d78f9d8451b693a7d359460dbecb036)
+
+## 5.04 Operadores relacionais em Python
+
+[Vídeo](https://youtu.be/6I82sjE__OY)
 
 [Commit]()
