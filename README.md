@@ -87,6 +87,7 @@
   - [5.04 Operadores relacionais em Python](#504-operadores-relacionais-em-python)
   - [5.05 Condicionais aninhados em Python](#505-condicionais-aninhados-em-python)
   - [5.06 Operadores lógicos em Python - Parte 1/2](#506-operadores-lógicos-em-python---parte-12)
+  - [5.07 Operadores lógicos em Python - Parte 2/2](#507-operadores-lógicos-em-python---parte-22)
 
 
 # 1. Introdução
@@ -963,8 +964,12 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 
 ## 5.06 Operadores lógicos em Python - Parte 1/2
 
-[Jupyter Notebook]()
-
 [Vídeo](https://youtu.be/XJ_F9vBTnOc)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/2b6f3b50ac2333889419ba3aa428c9ff83a5143d)
+
+## 5.07 Operadores lógicos em Python - Parte 2/2
+
+[Vídeo](https://youtu.be/IUu62mMPdOc)
 
 [Commit]()
