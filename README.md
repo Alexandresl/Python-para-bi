@@ -90,6 +90,7 @@
   - [5.07 Operadores lógicos em Python - Parte 2/2](#507-operadores-lógicos-em-python---parte-22)
   - [5.08 Trabalhando com loop for em Python](#508-trabalhando-com-loop-for-em-python)
   - [5.09 Loop For aninhado em Python - Parte 1/2](#509-loop-for-aninhado-em-python---parte-12)
+  - [5.10 Loop For aninhado em Python - Parte 2/2](#510-loop-for-aninhado-em-python---parte-22)
 
 
 # 1. Introdução
@@ -985,5 +986,11 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 ## 5.09 Loop For aninhado em Python - Parte 1/2
 
 [Vídeo](https://youtu.be/O4guS1on5ro)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/420645dfbaa23b6f7e50a45d94d1b35f0d8bce2f)
+
+## 5.10 Loop For aninhado em Python - Parte 2/2
+
+[Vídeo](https://youtu.be/ugboFvb88k8)
 
 [Commit]()
