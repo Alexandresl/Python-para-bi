@@ -88,6 +88,7 @@
   - [5.05 Condicionais aninhados em Python](#505-condicionais-aninhados-em-python)
   - [5.06 Operadores lógicos em Python - Parte 1/2](#506-operadores-lógicos-em-python---parte-12)
   - [5.07 Operadores lógicos em Python - Parte 2/2](#507-operadores-lógicos-em-python---parte-22)
+  - [5.08 Trabalhando com loop for em Python](#508-trabalhando-com-loop-for-em-python)
 
 
 # 1. Introdução
@@ -971,5 +972,11 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 ## 5.07 Operadores lógicos em Python - Parte 2/2
 
 [Vídeo](https://youtu.be/IUu62mMPdOc)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/6a85d490fc724502b34bda60d8f0238e118d2901)
+
+## 5.08 Trabalhando com loop for em Python
+
+[Vídeo](https://youtu.be/QsZd4lMR8Cs)
 
 [Commit]()
