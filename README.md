@@ -95,6 +95,7 @@
   - [5.12 Loop For e While juntos e tempo de execução em Python](#512-loop-for-e-while-juntos-e-tempo-de-execução-em-python)
   - [5.13 Gerando intervalos de valores em Python](#513-gerando-intervalos-de-valores-em-python)
   - [5.14 Métodos em Python](#514-métodos-em-python)
+  - [5.15 Trabalhando com Funções em Python](#515-trabalhando-com-funções-em-python)
 
 
 # 1. Introdução
@@ -1022,5 +1023,11 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 ## 5.14 Métodos em Python
 
 [Vídeo](https://youtu.be/wuE3TR3egd8)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/52f2991634bfc0a8cdebb88e27090fb0d458a8ad)
+
+## 5.15 Trabalhando com Funções em Python
+
+[Vídeo](https://youtu.be/m3tK_qHnCl0)
 
 [Commit]()
