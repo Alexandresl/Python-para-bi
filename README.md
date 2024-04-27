@@ -92,6 +92,7 @@
   - [5.09 Loop For aninhado em Python - Parte 1/2](#509-loop-for-aninhado-em-python---parte-12)
   - [5.10 Loop For aninhado em Python - Parte 2/2](#510-loop-for-aninhado-em-python---parte-22)
   - [5.11 Trabalhando com Loop While em Python](#511-trabalhando-com-loop-while-em-python)
+  - [5.12 Loop For e While juntos e tempo de execução em Python](#512-loop-for-e-while-juntos-e-tempo-de-execução-em-python)
 
 
 # 1. Introdução
@@ -1001,5 +1002,11 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 [Jupyter Notebook](./Cap05/notebooks/DSA-Python-Cap05-03-Loop-While.ipynb)
 
 [Vídeo](https://youtu.be/iC3YXfqfMZs)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi)
+
+## 5.12 Loop For e While juntos e tempo de execução em Python
+
+[Vídeo](https://youtu.be/_OEsy4uy0FQ)
 
 [Commit]()
