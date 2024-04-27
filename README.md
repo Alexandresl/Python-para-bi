@@ -93,6 +93,7 @@
   - [5.10 Loop For aninhado em Python - Parte 2/2](#510-loop-for-aninhado-em-python---parte-22)
   - [5.11 Trabalhando com Loop While em Python](#511-trabalhando-com-loop-while-em-python)
   - [5.12 Loop For e While juntos e tempo de execução em Python](#512-loop-for-e-while-juntos-e-tempo-de-execução-em-python)
+  - [5.13 Gerando intervalos de valores em Python](#513-gerando-intervalos-de-valores-em-python)
 
 
 # 1. Introdução
@@ -1008,5 +1009,11 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 ## 5.12 Loop For e While juntos e tempo de execução em Python
 
 [Vídeo](https://youtu.be/_OEsy4uy0FQ)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/2e656713d08c8545dbffc38dc9ac6a0e0c0ab25a)
+
+## 5.13 Gerando intervalos de valores em Python
+
+[Vídeo](https://youtu.be/X1uVSXgKJLk)
 
 [Commit]()
