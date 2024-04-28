@@ -100,6 +100,7 @@
   - [5.17 Usando funções Built-in em Python](#517-usando-funções-built-in-em-python)
   - [5.18 Criando funções usando outras funções em Python](#518-criando-funções-usando-outras-funções-em-python)
   - [5.19 Fazendo Split dos dados em Python](#519-fazendo-split-dos-dados-em-python)
+  - [5.20 Expressão Lambda em Python](#520-expressão-lambda-em-python)
 
 
 # 1. Introdução
@@ -1065,5 +1066,13 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 ## 5.19 Fazendo Split dos dados em Python
 
 [Vídeo](https://youtu.be/ZhMET9lzGk0)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/d42e69b75afa3f267d1216c87abde9805f46ce7a)
+
+## 5.20 Expressão Lambda em Python
+
+[Jupyter Notebook](./Cap05/notebooks/DSA-Python-Cap05-07-Lambda.ipynb)
+
+[Vídeo](https://youtu.be/TsVq5-NgLGs)
 
 [Commit]()
