@@ -98,6 +98,7 @@
   - [5.15 Trabalhando com Funções em Python](#515-trabalhando-com-funções-em-python)
   - [5.16 Escopo de variável em Python - Local e Global](#516-escopo-de-variável-em-python---local-e-global)
   - [5.17 Usando funções Built-in em Python](#517-usando-funções-built-in-em-python)
+  - [5.18 Criando funções usando outras funções em Python](#518-criando-funções-usando-outras-funções-em-python)
 
 
 # 1. Introdução
@@ -1049,5 +1050,13 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 ## 5.17 Usando funções Built-in em Python
 
 [Vídeo](https://youtu.be/VbJmBXQptJY)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/413df2c934f6c3f5fa6962ce1f6d935b5db22749)
+
+## 5.18 Criando funções usando outras funções em Python
+
+[Link Pypi](https://pypi.org/)
+
+[Vídeo](https://youtu.be/fqd2bEa8omY)
 
 [Commit]()
