@@ -99,6 +99,7 @@
   - [5.16 Escopo de variável em Python - Local e Global](#516-escopo-de-variável-em-python---local-e-global)
   - [5.17 Usando funções Built-in em Python](#517-usando-funções-built-in-em-python)
   - [5.18 Criando funções usando outras funções em Python](#518-criando-funções-usando-outras-funções-em-python)
+  - [5.19 Fazendo Split dos dados em Python](#519-fazendo-split-dos-dados-em-python)
 
 
 # 1. Introdução
@@ -1058,5 +1059,11 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 [Link Pypi](https://pypi.org/)
 
 [Vídeo](https://youtu.be/fqd2bEa8omY)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/3f50f30e38e74382506f2a818b35042745a1039b)
+
+## 5.19 Fazendo Split dos dados em Python
+
+[Vídeo](https://youtu.be/ZhMET9lzGk0)
 
 [Commit]()
