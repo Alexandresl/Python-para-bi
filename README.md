@@ -101,6 +101,7 @@
   - [5.18 Criando funções usando outras funções em Python](#518-criando-funções-usando-outras-funções-em-python)
   - [5.19 Fazendo Split dos dados em Python](#519-fazendo-split-dos-dados-em-python)
   - [5.20 Expressão Lambda em Python](#520-expressão-lambda-em-python)
+  - [5.21 List Comprehension e Dict Comprehension em Python](#521-list-comprehension-e-dict-comprehension-em-python)
 
 
 # 1. Introdução
@@ -1074,5 +1075,13 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 [Jupyter Notebook](./Cap05/notebooks/DSA-Python-Cap05-07-Lambda.ipynb)
 
 [Vídeo](https://youtu.be/TsVq5-NgLGs)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/771d00829c5636cbee59dcdf9b636d799ba90f22)
+
+## 5.21 List Comprehension e Dict Comprehension em Python
+
+[Jupyter Notebook](./Cap05/notebooks/DSA-Python-Cap05-08-List-Comprehension.ipynb)
+
+[Vídeo](https://youtu.be/5ZgPbvaSv14)
 
 [Commit]()
