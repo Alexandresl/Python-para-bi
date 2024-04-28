@@ -102,6 +102,7 @@
   - [5.19 Fazendo Split dos dados em Python](#519-fazendo-split-dos-dados-em-python)
   - [5.20 Expressão Lambda em Python](#520-expressão-lambda-em-python)
   - [5.21 List Comprehension e Dict Comprehension em Python](#521-list-comprehension-e-dict-comprehension-em-python)
+  - [5.22 Lab 2 - Construindo Calculadora em Python](#522-lab-2---construindo-calculadora-em-python)
 
 
 # 1. Introdução
@@ -1083,5 +1084,13 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 [Jupyter Notebook](./Cap05/notebooks/DSA-Python-Cap05-08-List-Comprehension.ipynb)
 
 [Vídeo](https://youtu.be/5ZgPbvaSv14)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/e82d9e28949cb4d2134a602836b7a66cdf397e5f)
+
+## 5.22 Lab 2 - Construindo Calculadora em Python
+
+[Jupyter Notebook](./Cap05/notebooks/Lab%202%20-%20Calculadora%20em%20Python.ipynb)
+
+[Vídeo](https://youtu.be/3zUQbEutlPY)
 
 [Commit]()
