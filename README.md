@@ -97,6 +97,7 @@
   - [5.14 Métodos em Python](#514-métodos-em-python)
   - [5.15 Trabalhando com Funções em Python](#515-trabalhando-com-funções-em-python)
   - [5.16 Escopo de variável em Python - Local e Global](#516-escopo-de-variável-em-python---local-e-global)
+  - [5.17 Usando funções Built-in em Python](#517-usando-funções-built-in-em-python)
 
 
 # 1. Introdução
@@ -1042,5 +1043,11 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 ## 5.16 Escopo de variável em Python - Local e Global
 
 [Vídeo](https://youtu.be/sfusCcIzbIQ)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/29c47ca5c9556a58d449508d446106f404f4d0f3)
+
+## 5.17 Usando funções Built-in em Python
+
+[Vídeo](https://youtu.be/VbJmBXQptJY)
 
 [Commit]()
