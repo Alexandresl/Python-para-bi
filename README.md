@@ -96,6 +96,7 @@
   - [5.13 Gerando intervalos de valores em Python](#513-gerando-intervalos-de-valores-em-python)
   - [5.14 Métodos em Python](#514-métodos-em-python)
   - [5.15 Trabalhando com Funções em Python](#515-trabalhando-com-funções-em-python)
+  - [5.16 Escopo de variável em Python - Local e Global](#516-escopo-de-variável-em-python---local-e-global)
 
 
 # 1. Introdução
@@ -1016,11 +1017,15 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 
 ## 5.13 Gerando intervalos de valores em Python
 
+[Jupyter Notebook](./Cap05/notebooks/DSA-Python-Cap05-04-Range.ipynb)
+
 [Vídeo](https://youtu.be/X1uVSXgKJLk)
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/f4a8f02ecaf2f077722445fa1c4c421436470eb6)
 
 ## 5.14 Métodos em Python
+
+[Jupyter Notebook](./Cap05/notebooks/DSA-Python-Cap05-05-Metodos.ipynb)
 
 [Vídeo](https://youtu.be/wuE3TR3egd8)
 
@@ -1028,6 +1033,14 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 
 ## 5.15 Trabalhando com Funções em Python
 
+[Jupyter Notebook](./Cap05/notebooks/DSA-Python-Cap05-06-Funcoes.ipynb)
+
 [Vídeo](https://youtu.be/m3tK_qHnCl0)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/30ec49c20903e44a0369039ccf5e8fe223b8158d)
+
+## 5.16 Escopo de variável em Python - Local e Global
+
+[Vídeo](https://youtu.be/sfusCcIzbIQ)
 
 [Commit]()
