@@ -108,6 +108,7 @@
   - [5.25 Bibliografia, Referências e Links úteis](#525-bibliografia-referências-e-links-úteis)
 - [6. Linguagem Python Nível Introdutório - Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in](#6-linguagem-python-nível-introdutório---tratamento-de-arquivos-módulos-pacotes-e-funções-built-in)
   - [6.01 Introdução](#601-introdução)
+  - [6.02 Solução do Lab 2 - Calculadora em Linguagem Python](#602-solução-do-lab-2---calculadora-em-linguagem-python)
 
 
 # 1. Introdução
@@ -1133,5 +1134,11 @@ Seja bem-vindo ao Capítulo 6. Este capítulo traz para você diversos assuntos 
 Este capítulo é o último de nível introdutório do curso e no próximo capítulo já iremos trabalhar no Projeto 1 e você encontrará a primeira avaliação final.
 
 E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/51b7ce011b1289424c99206be61b044635bacf06)
+
+## 6.02 Solução do Lab 2 - Calculadora em Linguagem Python
+
+[Vídeo](https://youtu.be/1uoccmkH8-I)
 
 [Commit]()
