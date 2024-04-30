@@ -104,6 +104,7 @@
   - [5.21 List Comprehension e Dict Comprehension em Python](#521-list-comprehension-e-dict-comprehension-em-python)
   - [5.22 Lab 2 - Construindo Calculadora em Python](#522-lab-2---construindo-calculadora-em-python)
   - [5.23 Lista de exercícios](#523-lista-de-exercícios)
+  - [5.24 Arquivos do capítulo](#524-arquivos-do-capítulo)
 
 
 # 1. Introdução
@@ -1101,5 +1102,11 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 [Jupyter Notebook Funções](./Cap05/notebooks/DSA-Python-Cap05-Exercicios-Funcoes.ipynb)
 
 [Jupyter Notebook condicionais](./Cap05/notebooks/DSA-Python-Cap05-Exercicios-Loops-Condiconais.ipynb)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/9cb550e72f46b0734dd6288d312761ae1ff24f75)
+
+## 5.24 Arquivos do capítulo
+
+[Arquivo](./Cap05/41-Cap05.zip)
 
 [Commit]()
