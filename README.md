@@ -105,6 +105,7 @@
   - [5.22 Lab 2 - Construindo Calculadora em Python](#522-lab-2---construindo-calculadora-em-python)
   - [5.23 Lista de exercícios](#523-lista-de-exercícios)
   - [5.24 Arquivos do capítulo](#524-arquivos-do-capítulo)
+  - [5.25 Bibliografia, Referências e Links úteis](#525-bibliografia-referências-e-links-úteis)
 
 
 # 1. Introdução
@@ -1108,5 +1109,15 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 ## 5.24 Arquivos do capítulo
 
 [Arquivo](./Cap05/41-Cap05.zip)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/3f15cf92467ccb9159a0774a682645fc6fabf2e5)
+
+## 5.25 Bibliografia, Referências e Links úteis
+
+[Página deste curso](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-para-analise-de-dados-e-data-scienceEditor) 
+
+[Sublime Text](https://www.sublimetext.com/Editor)
+
+[Visual Studio Code](https://code.visualstudio.com/)
 
 [Commit]()
