@@ -109,6 +109,7 @@
 - [6. Linguagem Python Nível Introdutório - Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in](#6-linguagem-python-nível-introdutório---tratamento-de-arquivos-módulos-pacotes-e-funções-built-in)
   - [6.01 Introdução](#601-introdução)
   - [6.02 Solução do Lab 2 - Calculadora em Linguagem Python](#602-solução-do-lab-2---calculadora-em-linguagem-python)
+  - [6.03 Manipulação de arquivos em Python - Parte 1/5](#603-manipulação-de-arquivos-em-python---parte-15)
 
 
 # 1. Introdução
@@ -1140,5 +1141,13 @@ E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
 ## 6.02 Solução do Lab 2 - Calculadora em Linguagem Python
 
 [Vídeo](https://youtu.be/1uoccmkH8-I)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/57ccfcc63a67495d1810634189f28b6afaaedc0a)
+
+## 6.03 Manipulação de arquivos em Python - Parte 1/5
+
+[Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-01-Arquivos.ipynb)
+
+[Vídeo](https://youtu.be/10Pdysnsihg)
 
 [Commit]()
