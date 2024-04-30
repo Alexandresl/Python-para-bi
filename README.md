@@ -106,6 +106,8 @@
   - [5.23 Lista de exercícios](#523-lista-de-exercícios)
   - [5.24 Arquivos do capítulo](#524-arquivos-do-capítulo)
   - [5.25 Bibliografia, Referências e Links úteis](#525-bibliografia-referências-e-links-úteis)
+- [6. Linguagem Python Nível Introdutório - Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in](#6-linguagem-python-nível-introdutório---tratamento-de-arquivos-módulos-pacotes-e-funções-built-in)
+  - [6.01 Introdução](#601-introdução)
 
 
 # 1. Introdução
@@ -1119,5 +1121,17 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 [Sublime Text](https://www.sublimetext.com/Editor)
 
 [Visual Studio Code](https://code.visualstudio.com/)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/0edb05e51e41039fabf38ad1b117a3c2fc41672f)
+
+# 6. Linguagem Python Nível Introdutório - Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
+
+## 6.01 Introdução
+
+Seja bem-vindo ao Capítulo 6. Este capítulo traz para você diversos assuntos importantes para o dia a dia em análise de dados com Linguagem Python: manipulação de arquivos, tarefas de mapeamento e redução, filtros, indexação e tratamento de erros e exceções.
+
+Este capítulo é o último de nível introdutório do curso e no próximo capítulo já iremos trabalhar no Projeto 1 e você encontrará a primeira avaliação final.
+
+E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
 
 [Commit]()
