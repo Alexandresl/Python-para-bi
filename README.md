@@ -103,6 +103,7 @@
   - [5.20 Expressão Lambda em Python](#520-expressão-lambda-em-python)
   - [5.21 List Comprehension e Dict Comprehension em Python](#521-list-comprehension-e-dict-comprehension-em-python)
   - [5.22 Lab 2 - Construindo Calculadora em Python](#522-lab-2---construindo-calculadora-em-python)
+  - [5.23 Lista de exercícios](#523-lista-de-exercícios)
 
 
 # 1. Introdução
@@ -1089,8 +1090,16 @@ Acompanhe as aulas sempre na sequência. Bons estudos.
 
 ## 5.22 Lab 2 - Construindo Calculadora em Python
 
-[Jupyter Notebook](./Cap05/notebooks/Lab%202%20-%20Calculadora%20em%20Python.ipynb)
+[Jupyter Notebook](./Cap05/Lab2/Lab%202%20-%20Calculadora%20em%20Python.ipynb)
 
 [Vídeo](https://youtu.be/3zUQbEutlPY)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/5e0ededa9f213c0deec0ae756fe08939b0e410e8)
+
+## 5.23 Lista de exercícios
+
+[Jupyter Notebook Funções](./Cap05/notebooks/DSA-Python-Cap05-Exercicios-Funcoes.ipynb)
+
+[Jupyter Notebook condicionais](./Cap05/notebooks/DSA-Python-Cap05-Exercicios-Loops-Condiconais.ipynb)
 
 [Commit]()
