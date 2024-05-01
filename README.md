@@ -122,6 +122,7 @@
   - [6.13 Pacotes e Módulos em Python - Parte 1/2](#613-pacotes-e-módulos-em-python---parte-12)
   - [6.14 Pacotes e Módulos em Python - Parte 2/2](#614-pacotes-e-módulos-em-python---parte-22)
   - [6.15 Função Map em Python](#615-função-map-em-python)
+  - [6.16 Função Reduce em Python](#616-função-reduce-em-python)
 
 
 # 1. Introdução
@@ -1240,5 +1241,13 @@ E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
 [Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-04-Map.ipynb)
 
 [Vídeo](https://youtu.be/1-TwBkdRtDY)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/1e3f020348835abd85b62e30c39cdaaeb7ac832e)
+
+## 6.16 Função Reduce em Python
+
+[Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-05-Reduce.ipynb)
+
+[Vídeo](https://youtu.be/N0W5m0dFcgE)
 
 [Commit]()
