@@ -111,6 +111,7 @@
   - [6.02 Solução do Lab 2 - Calculadora em Linguagem Python](#602-solução-do-lab-2---calculadora-em-linguagem-python)
   - [6.03 Manipulação de arquivos em Python - Parte 1/5](#603-manipulação-de-arquivos-em-python---parte-15)
   - [6.04 Manipulação de arquivos em Python - Parte 2/5](#604-manipulação-de-arquivos-em-python---parte-25)
+  - [6.05 Manipulação de arquivos em Python - Parte 3/5](#605-manipulação-de-arquivos-em-python---parte-35)
 
 
 # 1. Introdução
@@ -1156,5 +1157,11 @@ E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
 ## 6.04 Manipulação de arquivos em Python - Parte 2/5
 
 [Vídeo](https://youtu.be/xIC2xyLmo7M)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/199a764c8580eaebf46e99076e8feac3b3eb33e4)
+
+## 6.05 Manipulação de arquivos em Python - Parte 3/5
+
+[Vídeo](https://youtu.be/6iAOrL5TBe8)
 
 [Commit]()
