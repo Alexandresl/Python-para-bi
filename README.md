@@ -113,6 +113,7 @@
   - [6.04 Manipulação de arquivos em Python - Parte 2/5](#604-manipulação-de-arquivos-em-python---parte-25)
   - [6.05 Manipulação de arquivos em Python - Parte 3/5](#605-manipulação-de-arquivos-em-python---parte-35)
   - [6.06 Manipulação de arquivos em Python - Parte 4/5](#606-manipulação-de-arquivos-em-python---parte-45)
+  - [6.07 Manipulação de arquivos em Python - Parte 5/5](#607-manipulação-de-arquivos-em-python---parte-55)
 
 
 # 1. Introdução
@@ -1170,5 +1171,11 @@ E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
 ## 6.06 Manipulação de arquivos em Python - Parte 4/5
 
 [Vídeo](https://youtu.be/yNFiFQ-AI4Q)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/3c522ffa04857ba4a3e270038c2d6e5cad1dd6f2)
+
+## 6.07 Manipulação de arquivos em Python - Parte 5/5
+
+[Vídeo](https://youtu.be/S26BbiBC4lY)
 
 [Commit]()
