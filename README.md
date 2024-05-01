@@ -119,6 +119,7 @@
   - [6.10 Manipulando arquivos CSV em Python com Pacote CSV](#610-manipulando-arquivos-csv-em-python-com-pacote-csv)
   - [6.11 Manipulando arquivos JSON em Python com pacote JSON](#611-manipulando-arquivos-json-em-python-com-pacote-json)
   - [6.12 Manipulando arquivos JSON em Python e extração de arquivos da Web](#612-manipulando-arquivos-json-em-python-e-extração-de-arquivos-da-web)
+  - [6.13 Pacotes e Módulos em Python - Parte 1/2](#613-pacotes-e-módulos-em-python---parte-12)
 
 
 # 1. Introdução
@@ -1215,5 +1216,11 @@ E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
 ## 6.12 Manipulando arquivos JSON em Python e extração de arquivos da Web
 
 [Vídeo](https://youtu.be/tSjf1topZvU)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/f5b062ba2f00923ad5ea48bf488792b351a7954c)
+
+## 6.13 Pacotes e Módulos em Python - Parte 1/2
+
+[Vídeo](https://youtu.be/OlsQv0cuoe0)
 
 [Commit]()
