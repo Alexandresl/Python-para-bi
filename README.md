@@ -115,6 +115,7 @@
   - [6.06 Manipulação de arquivos em Python - Parte 4/5](#606-manipulação-de-arquivos-em-python---parte-45)
   - [6.07 Manipulação de arquivos em Python - Parte 5/5](#607-manipulação-de-arquivos-em-python---parte-55)
   - [6.08 Manipulando arquivos TXT em Python com a Expressão WITH](#608-manipulando-arquivos-txt-em-python-com-a-expressão-with)
+  - [6.09 Manipulando arquivos TXT em Python com a expressão WITH](#609-manipulando-arquivos-txt-em-python-com-a-expressão-with)
 
 
 # 1. Introdução
@@ -1186,5 +1187,11 @@ E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
 [Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-02-TXT-CSV-JSON.ipynb)
 
 [Vídeo](https://youtu.be/YzUUDerm4IY)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/02a3bc355daa99c670d0f3d1336d2523d26a394a)
+
+## 6.09 Manipulando arquivos TXT em Python com a expressão WITH
+
+[Vídeo](https://youtu.be/HoiKcyvpq4g)
 
 [Commit]()
