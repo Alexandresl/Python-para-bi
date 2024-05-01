@@ -1,0 +1,5 @@
+[Jupyter Notebook]()
+
+[Vídeo]()
+
+[Commit]()

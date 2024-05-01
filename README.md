@@ -114,9 +114,10 @@
   - [6.05 Manipulação de arquivos em Python - Parte 3/5](#605-manipulação-de-arquivos-em-python---parte-35)
   - [6.06 Manipulação de arquivos em Python - Parte 4/5](#606-manipulação-de-arquivos-em-python---parte-45)
   - [6.07 Manipulação de arquivos em Python - Parte 5/5](#607-manipulação-de-arquivos-em-python---parte-55)
-  - [6.08 Manipulando arquivos TXT em Python com a Expressão WITH](#608-manipulando-arquivos-txt-em-python-com-a-expressão-with)
+  - [6.08 Manipulando arquivos TXT em Python com a Expressão OS](#608-manipulando-arquivos-txt-em-python-com-a-expressão-os)
   - [6.09 Manipulando arquivos TXT em Python com a expressão WITH](#609-manipulando-arquivos-txt-em-python-com-a-expressão-with)
   - [6.10 Manipulando arquivos CSV em Python com Pacote CSV](#610-manipulando-arquivos-csv-em-python-com-pacote-csv)
+  - [6.11 Manipulando arquivos JSON em Python com pacote JSON](#611-manipulando-arquivos-json-em-python-com-pacote-json)
 
 
 # 1. Introdução
@@ -1183,7 +1184,7 @@ E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/b03f0909ab3e2dbc08ff58fc4a4108d921403b31)
 
-## 6.08 Manipulando arquivos TXT em Python com a Expressão WITH
+## 6.08 Manipulando arquivos TXT em Python com a Expressão OS
 
 [Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-02-TXT-CSV-JSON.ipynb)
 
@@ -1201,5 +1202,11 @@ E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
 ## 6.10 Manipulando arquivos CSV em Python com Pacote CSV
 
 [Vídeo](https://youtu.be/e2tJlMCX6ys)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/c2d6ec919dfb170db2a9a5300ede2b80c48bed3a)
+
+## 6.11 Manipulando arquivos JSON em Python com pacote JSON
+
+[Vídeo](https://youtu.be/zQD2fuAh2tM)
 
 [Commit]()
