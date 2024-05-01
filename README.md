@@ -116,6 +116,7 @@
   - [6.07 Manipulação de arquivos em Python - Parte 5/5](#607-manipulação-de-arquivos-em-python---parte-55)
   - [6.08 Manipulando arquivos TXT em Python com a Expressão WITH](#608-manipulando-arquivos-txt-em-python-com-a-expressão-with)
   - [6.09 Manipulando arquivos TXT em Python com a expressão WITH](#609-manipulando-arquivos-txt-em-python-com-a-expressão-with)
+  - [6.10 Manipulando arquivos CSV em Python com Pacote CSV](#610-manipulando-arquivos-csv-em-python-com-pacote-csv)
 
 
 # 1. Introdução
@@ -1193,5 +1194,12 @@ E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
 ## 6.09 Manipulando arquivos TXT em Python com a expressão WITH
 
 [Vídeo](https://youtu.be/HoiKcyvpq4g)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/4ec417a9d90b975f91d93bd9cf5d70c6885dda50)
+
+
+## 6.10 Manipulando arquivos CSV em Python com Pacote CSV
+
+[Vídeo](https://youtu.be/e2tJlMCX6ys)
 
 [Commit]()
