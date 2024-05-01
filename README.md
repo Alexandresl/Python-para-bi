@@ -121,6 +121,7 @@
   - [6.12 Manipulando arquivos JSON em Python e extração de arquivos da Web](#612-manipulando-arquivos-json-em-python-e-extração-de-arquivos-da-web)
   - [6.13 Pacotes e Módulos em Python - Parte 1/2](#613-pacotes-e-módulos-em-python---parte-12)
   - [6.14 Pacotes e Módulos em Python - Parte 2/2](#614-pacotes-e-módulos-em-python---parte-22)
+  - [6.15 Função Map em Python](#615-função-map-em-python)
 
 
 # 1. Introdução
@@ -1231,5 +1232,13 @@ E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
 ## 6.14 Pacotes e Módulos em Python - Parte 2/2
 
 [Vídeo](https://youtu.be/lJIa-LGDRjM)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/bb2992ab0bd6a6b3b57865e7e11702a8bb8a5e0a)
+
+## 6.15 Função Map em Python
+
+[Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-04-Map.ipynb)
+
+[Vídeo](https://youtu.be/1-TwBkdRtDY)
 
 [Commit]()
