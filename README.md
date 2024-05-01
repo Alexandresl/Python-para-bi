@@ -110,6 +110,7 @@
   - [6.01 Introdução](#601-introdução)
   - [6.02 Solução do Lab 2 - Calculadora em Linguagem Python](#602-solução-do-lab-2---calculadora-em-linguagem-python)
   - [6.03 Manipulação de arquivos em Python - Parte 1/5](#603-manipulação-de-arquivos-em-python---parte-15)
+  - [6.04 Manipulação de arquivos em Python - Parte 2/5](#604-manipulação-de-arquivos-em-python---parte-25)
 
 
 # 1. Introdução
@@ -1149,5 +1150,11 @@ E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
 [Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-01-Arquivos.ipynb)
 
 [Vídeo](https://youtu.be/10Pdysnsihg)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/aa1c3cdfa8d00cabc5c294b56a93261176d60e9d)
+
+## 6.04 Manipulação de arquivos em Python - Parte 2/5
+
+[Vídeo](https://youtu.be/xIC2xyLmo7M)
 
 [Commit]()
