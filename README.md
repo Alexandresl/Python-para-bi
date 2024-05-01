@@ -120,6 +120,7 @@
   - [6.11 Manipulando arquivos JSON em Python com pacote JSON](#611-manipulando-arquivos-json-em-python-com-pacote-json)
   - [6.12 Manipulando arquivos JSON em Python e extração de arquivos da Web](#612-manipulando-arquivos-json-em-python-e-extração-de-arquivos-da-web)
   - [6.13 Pacotes e Módulos em Python - Parte 1/2](#613-pacotes-e-módulos-em-python---parte-12)
+  - [6.14 Pacotes e Módulos em Python - Parte 2/2](#614-pacotes-e-módulos-em-python---parte-22)
 
 
 # 1. Introdução
@@ -1221,6 +1222,14 @@ E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
 
 ## 6.13 Pacotes e Módulos em Python - Parte 1/2
 
+[Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-03-Modulos-e-Pacotes.ipynb)
+
 [Vídeo](https://youtu.be/OlsQv0cuoe0)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/a98b3cebba7a71f997febc9e8f0d576c07018aa3)
+
+## 6.14 Pacotes e Módulos em Python - Parte 2/2
+
+[Vídeo](https://youtu.be/lJIa-LGDRjM)
 
 [Commit]()
