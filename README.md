@@ -118,6 +118,7 @@
   - [6.09 Manipulando arquivos TXT em Python com a expressão WITH](#609-manipulando-arquivos-txt-em-python-com-a-expressão-with)
   - [6.10 Manipulando arquivos CSV em Python com Pacote CSV](#610-manipulando-arquivos-csv-em-python-com-pacote-csv)
   - [6.11 Manipulando arquivos JSON em Python com pacote JSON](#611-manipulando-arquivos-json-em-python-com-pacote-json)
+  - [6.12 Manipulando arquivos JSON em Python e extração de arquivos da Web](#612-manipulando-arquivos-json-em-python-e-extração-de-arquivos-da-web)
 
 
 # 1. Introdução
@@ -1208,5 +1209,11 @@ E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
 ## 6.11 Manipulando arquivos JSON em Python com pacote JSON
 
 [Vídeo](https://youtu.be/zQD2fuAh2tM)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/d453638bf0becc26f1236a9409797f94a086fd7a)
+
+## 6.12 Manipulando arquivos JSON em Python e extração de arquivos da Web
+
+[Vídeo](https://youtu.be/tSjf1topZvU)
 
 [Commit]()
