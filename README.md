@@ -124,6 +124,7 @@
   - [6.15 Função Map em Python](#615-função-map-em-python)
   - [6.16 Função Reduce em Python](#616-função-reduce-em-python)
   - [6.17 Função Filter em Python](#617-função-filter-em-python)
+  - [6.18 Função Zip em Python](#618-função-zip-em-python)
 
 
 # 1. Introdução
@@ -1258,5 +1259,13 @@ E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
 [Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-06-Filter.ipynb)
 
 [Vídeo](https://youtu.be/c_zpPhu1rnU)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/621a343eef86a6356cbcc3dd6dbadeb1d10675b0)
+
+## 6.18 Função Zip em Python
+
+[Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-07-Zip.ipynb)
+
+[Vídeo](https://youtu.be/0dLYjdvy-jw)
 
 [Commit]()
