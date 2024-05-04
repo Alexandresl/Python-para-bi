@@ -125,6 +125,7 @@
   - [6.16 Função Reduce em Python](#616-função-reduce-em-python)
   - [6.17 Função Filter em Python](#617-função-filter-em-python)
   - [6.18 Função Zip em Python](#618-função-zip-em-python)
+  - [6.19 Função Enumerate em Python](#619-função-enumerate-em-python)
 
 
 # 1. Introdução
@@ -1267,5 +1268,13 @@ E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
 [Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-07-Zip.ipynb)
 
 [Vídeo](https://youtu.be/0dLYjdvy-jw)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/dc271d44732cb43c187ce43bfaed39ea4c761916)
+
+## 6.19 Função Enumerate em Python
+
+[Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-08-Enumerate.ipynb)
+
+[Vídeo](https://youtu.be/ve5NuhhPfbE)
 
 [Commit]()
