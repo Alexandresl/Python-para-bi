@@ -123,6 +123,7 @@
   - [6.14 Pacotes e Módulos em Python - Parte 2/2](#614-pacotes-e-módulos-em-python---parte-22)
   - [6.15 Função Map em Python](#615-função-map-em-python)
   - [6.16 Função Reduce em Python](#616-função-reduce-em-python)
+  - [6.17 Função Filter em Python](#617-função-filter-em-python)
 
 
 # 1. Introdução
@@ -1249,5 +1250,13 @@ E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
 [Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-05-Reduce.ipynb)
 
 [Vídeo](https://youtu.be/N0W5m0dFcgE)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/dde41cfc03e6c890b934a4847f914498dac5e219)
+
+## 6.17 Função Filter em Python
+
+[Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-06-Filter.ipynb)
+
+[Vídeo](https://youtu.be/c_zpPhu1rnU)
 
 [Commit]()
