@@ -126,6 +126,7 @@
   - [6.17 Função Filter em Python](#617-função-filter-em-python)
   - [6.18 Função Zip em Python](#618-função-zip-em-python)
   - [6.19 Função Enumerate em Python](#619-função-enumerate-em-python)
+  - [6.20 Tratamento de Erros e Exceções em Python - Parte 1/2](#620-tratamento-de-erros-e-exceções-em-python---parte-12)
 
 
 # 1. Introdução
@@ -1276,5 +1277,13 @@ E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
 [Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-08-Enumerate.ipynb)
 
 [Vídeo](https://youtu.be/ve5NuhhPfbE)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/42f3479c33119d188c70d1243351bc3086498447)
+
+## 6.20 Tratamento de Erros e Exceções em Python - Parte 1/2
+
+[Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-09-Erros-e-Excecoes.ipynb)
+
+[Vídeo](https://youtu.be/qrdTujKXZq8)
 
 [Commit]()
