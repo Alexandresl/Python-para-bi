@@ -129,6 +129,7 @@
   - [6.20 Tratamento de Erros e Exceções em Python - Parte 1/2](#620-tratamento-de-erros-e-exceções-em-python---parte-12)
   - [6.21 Tratamento de Erros e Exceções em Python - Parte 2/2](#621-tratamento-de-erros-e-exceções-em-python---parte-22)
   - [6.22 Lab 3 - Trabalhando com Expressões Regulares em Python com ChatGPT](#622-lab-3---trabalhando-com-expressões-regulares-em-python-com-chatgpt)
+  - [6.23 Lab 3 - Expressões regulares em Python - Parte 1/2](#623-lab-3---expressões-regulares-em-python---parte-12)
 
 
 # 1. Introdução
@@ -1303,5 +1304,13 @@ Neste Lab você vai aprender como usar Expressões Regulares em Python ao mesmo 
 Expressões regulares são uma sequência de caracteres que definem uma busca padrão em strings. Em Python, as Expressões Regulares são suportadas pelo pacote re. Ele fornece uma série de funções para pesquisar e substituir padrões em strings. Algumas das tarefas mais comuns que podem ser realizadas com Expressões Regulares incluem verificar se uma string corresponde a um determinado padrão, extrair informações de uma string com base em um padrão específico e substituir trechos de uma string com base em um padrão.
 
 Por exemplo, você pode usar uma expressão regular para verificar se uma string representa um endereço de e-mail válido, ou para encontrar todas as ocorrências de um padrão de uma string teremos agora uma série de exemplos para você.
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/99ad319c6db2f334dace84523fa35217dd2416b5)
+
+## 6.23 Lab 3 - Expressões regulares em Python - Parte 1/2
+
+[Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-10-Lab3.ipynb)
+
+[Vídeo](https://youtu.be/r05gVCB2YIw)
 
 [Commit]()
