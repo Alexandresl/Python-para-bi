@@ -127,6 +127,7 @@
   - [6.18 Função Zip em Python](#618-função-zip-em-python)
   - [6.19 Função Enumerate em Python](#619-função-enumerate-em-python)
   - [6.20 Tratamento de Erros e Exceções em Python - Parte 1/2](#620-tratamento-de-erros-e-exceções-em-python---parte-12)
+  - [6.21 Tratamento de Erros e Exceções em Python - Parte 2/2](#621-tratamento-de-erros-e-exceções-em-python---parte-22)
 
 
 # 1. Introdução
@@ -1285,5 +1286,11 @@ E este capítulo traz ainda o Lab 3. Acompanhe as aulas sempre na sequência.
 [Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-09-Erros-e-Excecoes.ipynb)
 
 [Vídeo](https://youtu.be/qrdTujKXZq8)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/7acee8f600d5a1275ab0189946ff174bd6e71ab2)
+
+## 6.21 Tratamento de Erros e Exceções em Python - Parte 2/2
+
+[Vídeo](https://youtu.be/qX4JhZbuSfU)
 
 [Commit]()
