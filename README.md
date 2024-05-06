@@ -131,6 +131,7 @@
   - [6.22 Lab 3 - Trabalhando com Expressões Regulares em Python com ChatGPT](#622-lab-3---trabalhando-com-expressões-regulares-em-python-com-chatgpt)
   - [6.23 Lab 3 - Expressões regulares em Python - Parte 1/2](#623-lab-3---expressões-regulares-em-python---parte-12)
   - [6.24 Lab 3 - Expressões regulares em Python - Parte 2/2](#624-lab-3---expressões-regulares-em-python---parte-22)
+  - [6.25 Lab 3 - Usando ChatGPT para filtrar Texto com expressões regulares em Python](#625-lab-3---usando-chatgpt-para-filtrar-texto-com-expressões-regulares-em-python)
 
 
 # 1. Introdução
@@ -1319,5 +1320,11 @@ Por exemplo, você pode usar uma expressão regular para verificar se uma string
 ## 6.24 Lab 3 - Expressões regulares em Python - Parte 2/2
 
 [Vídeo](https://youtu.be/XXiD16Mcm8A)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/5139db5120fe9ad0beab69146731d80e6e2f7c5b)
+
+## 6.25 Lab 3 - Usando ChatGPT para filtrar Texto com expressões regulares em Python
+
+[Vídeo](https://youtu.be/oj-gO7lhxNk)
 
 [Commit]()
