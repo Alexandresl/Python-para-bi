@@ -133,6 +133,7 @@
   - [6.24 Lab 3 - Expressões regulares em Python - Parte 2/2](#624-lab-3---expressões-regulares-em-python---parte-22)
   - [6.25 Lab 3 - Usando ChatGPT para filtrar Texto com expressões regulares em Python](#625-lab-3---usando-chatgpt-para-filtrar-texto-com-expressões-regulares-em-python)
   - [6.26 Lab 3 - Cuidados ao usar o ChatGPT com Python](#626-lab-3---cuidados-ao-usar-o-chatgpt-com-python)
+  - [6.27 Lab 3 - Usando ChatGPT para filtrar pontuação e acentos em texto com expressões regulares em Python](#627-lab-3---usando-chatgpt-para-filtrar-pontuação-e-acentos-em-texto-com-expressões-regulares-em-python)
 
 
 # 1. Introdução
@@ -1333,5 +1334,11 @@ Por exemplo, você pode usar uma expressão regular para verificar se uma string
 ## 6.26 Lab 3 - Cuidados ao usar o ChatGPT com Python
 
 [Vídeo](https://youtu.be/vk82fii4V1E)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/4e30733a4db6256000ead1c350e58c1b130dd903)
+
+## 6.27 Lab 3 - Usando ChatGPT para filtrar pontuação e acentos em texto com expressões regulares em Python
+
+[Vídeo](https://youtu.be/wp6nBz5bF_M)
 
 [Commit]()
