@@ -130,6 +130,7 @@
   - [6.21 Tratamento de Erros e Exceções em Python - Parte 2/2](#621-tratamento-de-erros-e-exceções-em-python---parte-22)
   - [6.22 Lab 3 - Trabalhando com Expressões Regulares em Python com ChatGPT](#622-lab-3---trabalhando-com-expressões-regulares-em-python-com-chatgpt)
   - [6.23 Lab 3 - Expressões regulares em Python - Parte 1/2](#623-lab-3---expressões-regulares-em-python---parte-12)
+  - [6.24 Lab 3 - Expressões regulares em Python - Parte 2/2](#624-lab-3---expressões-regulares-em-python---parte-22)
 
 
 # 1. Introdução
@@ -1312,5 +1313,11 @@ Por exemplo, você pode usar uma expressão regular para verificar se uma string
 [Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-10-Lab3.ipynb)
 
 [Vídeo](https://youtu.be/r05gVCB2YIw)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/c004e47046ee720eadcabc88367c05b294b55eb9)
+
+## 6.24 Lab 3 - Expressões regulares em Python - Parte 2/2
+
+[Vídeo](https://youtu.be/XXiD16Mcm8A)
 
 [Commit]()
