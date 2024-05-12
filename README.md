@@ -143,6 +143,7 @@
   - [7.03 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Executando as duas versões do Game](#703-projeto-1---desenvolvimento-de-game-em-linguagem-python---executando-as-duas-versões-do-game)
   - [7.04 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Criando Pseudocódigo com ChatGPT](#704-projeto-1---desenvolvimento-de-game-em-linguagem-python---criando-pseudocódigo-com-chatgpt)
   - [7.05 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Construção do Game - Parte 1/5](#705-projeto-1---desenvolvimento-de-game-em-linguagem-python---construção-do-game---parte-15)
+  - [7.06 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Construção do Game - Parte 2/5](#706-projeto-1---desenvolvimento-de-game-em-linguagem-python---construção-do-game---parte-25)
 
 
 # 1. Introdução
@@ -1421,5 +1422,11 @@ Siga todas as instruções sempre com muita atenção. Bons estudos.
 ## 7.05 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Construção do Game - Parte 1/5
 
 [Vídeo](https://youtu.be/_JjXdJb5ijI)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/2dd8be460e8ead54f7d90eacac7689261ad718b8)
+
+## 7.06 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Construção do Game - Parte 2/5
+
+[Vídeo](https://youtu.be/lltVHbZ9efw)
 
 [Commit]()

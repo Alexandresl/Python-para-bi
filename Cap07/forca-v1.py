@@ -11,3 +11,37 @@ def limpa_tela():
     else:
         _ = system('clear')
 
+def game():
+    limpa_tela()
+    print("\nBem-vindo(a) ao jogo da forca!")
+    print("\nAdivinhe a palavra abaixo:\n")
+
+    # Lista de palavras para o jogo
+    palavras = ["cachorro", "gato", "livro", "computador", "mesa", "cadeira", "telefone", "caneta", 
+                "futebol", "escola", "amor", "felicidade", "tristeza", "brinquedo", "frio", "calor", 
+                "chuva", "sol", "lua", "estrela", "carro", "bicicleta", "avião", "ônibus", "trem", 
+                "barco", "navio", "sorriso", "risada", "lágrima", "amizade", "família", "amor", 
+                "ódio", "verão", "inverno", "primavera", "outono", "praia", "montanha", "cidade", 
+                "campo", "floresta", "deserto", "rio", "lago", "mar", "oceano", "vermelho", "azul",
+                "verde", "amarelo", "branco", "preto", "rosa", "roxo", "laranja", "cinza", "marrom", 
+                "dente", "cabelo", "olho", "nariz", "boca", "orelha", "braço", "perna", "mão", "pé", 
+                "dedo", "cabeça", "coração", "peito", "costa", "barriga", "joelho", "cotovelo", 
+                "ombro", "pescoço", "rosto", "café", "chá", "suco", "refrigerante", "água", "leite", 
+                "cerveja", "vinho", "chocolate", "doce", "bolo", "pão", "queijo", "fruta", "vegetal", 
+                "carne", "peixe", "arroz", "feijão", "macarrão"]
+    
+    # Escolhe randomicamente uma palavra
+    palavra = random.choice(palavras)
+    # List Comprehension
+    letras_descobertas = ['_' for letra in palavra]
+    # Número de chances
+    chances = 6
+    # Lista de letras erradas
+    letras_erradas = []
+
+    print(letras_descobertas)
+
+
+
+
+game()
