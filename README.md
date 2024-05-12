@@ -136,6 +136,7 @@
   - [6.27 Lab 3 - Usando ChatGPT para filtrar pontuação e acentos em texto com expressões regulares em Python](#627-lab-3---usando-chatgpt-para-filtrar-pontuação-e-acentos-em-texto-com-expressões-regulares-em-python)
   - [6.28 Lista de Exercícios](#628-lista-de-exercícios)
   - [6.29 Arquivos do capítulo](#629-arquivos-do-capítulo)
+  - [6.30 Bibliografia, referências e links úteis](#630-bibliografia-referências-e-links-úteis)
 
 
 # 1. Introdução
@@ -1354,5 +1355,11 @@ Por exemplo, você pode usar uma expressão regular para verificar se uma string
 ## 6.29 Arquivos do capítulo
 
 [Arquivos](./Cap06/38-Cap06.zip)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/93bebdfa45086dac5fde0c4a808cf417c68db84c)
+
+## 6.30 Bibliografia, referências e links úteis
+
+[Expressões regulares em Python](https://docs.python.org/3.9/library/re.html)
 
 [Commit]()
