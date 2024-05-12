@@ -146,6 +146,7 @@
   - [7.06 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Construção do Game - Parte 2/5](#706-projeto-1---desenvolvimento-de-game-em-linguagem-python---construção-do-game---parte-25)
   - [7.07 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Construção do Game - Parte 3/5](#707-projeto-1---desenvolvimento-de-game-em-linguagem-python---construção-do-game---parte-35)
   - [7.08 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Construção do Game - Parte 4/5](#708-projeto-1---desenvolvimento-de-game-em-linguagem-python---construção-do-game---parte-45)
+  - [7.09 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Construção do Game - Parte 5/5](#709-projeto-1---desenvolvimento-de-game-em-linguagem-python---construção-do-game---parte-55)
 
 
 # 1. Introdução
@@ -1442,5 +1443,11 @@ Siga todas as instruções sempre com muita atenção. Bons estudos.
 ## 7.08 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Construção do Game - Parte 4/5
 
 [Vídeo](https://youtu.be/Db5dzl2Nst0)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/9e4af16260145f9f25b3961db79a99f549f9a692)
+
+## 7.09 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Construção do Game - Parte 5/5
+
+[Vídeo](https://youtu.be/3d7m_-8S738)
 
 [Commit]()
