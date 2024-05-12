@@ -141,7 +141,8 @@
   - [7.01 Projeto 1 - Desenvolvimento de Game em Linguagem Python](#701-projeto-1---desenvolvimento-de-game-em-linguagem-python)
   - [7.02 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Visão Geral](#702-projeto-1---desenvolvimento-de-game-em-linguagem-python---visão-geral)
   - [7.03 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Executando as duas versões do Game](#703-projeto-1---desenvolvimento-de-game-em-linguagem-python---executando-as-duas-versões-do-game)
-  - [7.04 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Criando Pseudocódigo com ChatGPt](#704-projeto-1---desenvolvimento-de-game-em-linguagem-python---criando-pseudocódigo-com-chatgpt)
+  - [7.04 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Criando Pseudocódigo com ChatGPT](#704-projeto-1---desenvolvimento-de-game-em-linguagem-python---criando-pseudocódigo-com-chatgpt)
+  - [7.05 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Construção do Game - Parte 1/5](#705-projeto-1---desenvolvimento-de-game-em-linguagem-python---construção-do-game---parte-15)
 
 
 # 1. Introdução
@@ -1395,7 +1396,7 @@ Siga todas as instruções sempre com muita atenção. Bons estudos.
 
 [Commit](https://github.com/Alexandresl/Python-para-bi/tree/5d8eca2dd7e4d1249a78dd773bbf6eed66d30d75)
 
-## 7.04 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Criando Pseudocódigo com ChatGPt
+## 7.04 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Criando Pseudocódigo com ChatGPT
 
 **Pseudocódigo criado pelo ChatGPT:**
 
@@ -1414,5 +1415,11 @@ Siga todas as instruções sempre com muita atenção. Bons estudos.
    8. Se o número de tentativas restantes chegar a zero, exibir a mensagem "Você perdeu. A palavra era [palavra escolhida]" e encerrar o jogo.
 
 [Vídeo](https://youtu.be/lOJADqE-SNk)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/f8866592f8ef1b82dcb51e08dd32bc741fc12406)
+
+## 7.05 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Construção do Game - Parte 1/5
+
+[Vídeo](https://youtu.be/_JjXdJb5ijI)
 
 [Commit]()
