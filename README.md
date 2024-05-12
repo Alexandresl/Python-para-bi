@@ -139,6 +139,7 @@
   - [6.30 Bibliografia, referências e links úteis](#630-bibliografia-referências-e-links-úteis)
 - [7. Projeto 1 e Avaliação 1](#7-projeto-1-e-avaliação-1)
   - [7.01 Projeto 1 - Desenvolvimento de Game em Linguagem Python](#701-projeto-1---desenvolvimento-de-game-em-linguagem-python)
+  - [7.02 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Visão Geral](#702-projeto-1---desenvolvimento-de-game-em-linguagem-python---visão-geral)
 
 
 # 1. Introdução
@@ -1378,4 +1379,10 @@ E sete capítulo traz ainda a primeira avaliação do curso e sendo aprovado voc
 
 Siga todas as instruções sempre com muita atenção. Bons estudos.
 
-[commit]()
+[commit](https://github.com/Alexandresl/Python-para-bi/commit/4a0d374adeefb09c6715a8ba9279238dfa3521f0)
+
+## 7.02 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Visão Geral
+
+[Vídeo](https://youtu.be/-0WvuOvw1F0)
+
+[Commit]()
