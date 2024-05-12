@@ -153,6 +153,7 @@
 - [8. Linguagem Python Nível Básico - Introdução à Programação Orientada a Objetos](#8-linguagem-python-nível-básico---introdução-à-programação-orientada-a-objetos)
   - [8.01 Introdução](#801-introdução)
   - [8.02 O que é Programação Orientada a Objetos?](#802-o-que-é-programação-orientada-a-objetos)
+  - [8.03 O que é uma classe em programação orientada a objetos?](#803-o-que-é-uma-classe-em-programação-orientada-a-objetos)
 
 
 # 1. Introdução
@@ -1493,5 +1494,13 @@ A POO tem como princípio a encapsulação, que é a capacidade de um objeto de 
 Dentre as linguagem de3 programação mais populares que utilizam POO, podemos citar Java, Python, C++, C#, Ruby, entre outras. A POO é uma abordagem muito utilizada no desenvolvimento de software moderno, permitindo a criação de sistemas complexos e escaláveis de foram organizada e eficiente.
 
 POO também é o paradigma de programação comumente usado para construir algoritmos de Machine Learning.
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/2f4d3f1d4b9b896f8a06252b9914d4116c1262d9)
+
+## 8.03 O que é uma classe em programação orientada a objetos?
+
+[Jupyter Notebook](./Cap08/notebook/DSA-Python-Cap08-01-Classes.ipynb)
+
+[Vídeo](https://youtu.be/c4vc_WsXOK0)
 
 [Commit]()
