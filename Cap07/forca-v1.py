@@ -39,6 +39,36 @@ def game():
     # Lista de letras erradas
     letras_erradas = []
 
+    while chances > 0:
+
+        
+
+        # Print
+        print(" ".join(letras_descobertas))
+        print("\nChances restantes:", chances)
+        print("Letras erradas:", " ".join(letras_erradas))
+
+        # captura a primeira letra
+        tentativa = input("\nDigite uma letrar: ").lower()
+
+        # Condicional
+        if tentativa in palavra:
+            index = 0
+            for letra in palavra:
+                if tentativa == letra:
+                    letras_descobertas[index] = letra
+                index += 1
+        else:
+            chances -= 1
+            letras_erradas.append(tentativa)
+
+
+        limpa_tela()
+        print("\nBem-vindo(a) ao jogo da forca!")
+        print("\nAdivinhe a palavra abaixo:\n")
+
+
+
     print(letras_descobertas)
 
 
