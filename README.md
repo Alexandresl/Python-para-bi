@@ -137,6 +137,8 @@
   - [6.28 Lista de Exercícios](#628-lista-de-exercícios)
   - [6.29 Arquivos do capítulo](#629-arquivos-do-capítulo)
   - [6.30 Bibliografia, referências e links úteis](#630-bibliografia-referências-e-links-úteis)
+- [7. Projeto 1 e Avaliação 1](#7-projeto-1-e-avaliação-1)
+  - [7.01 Projeto 1 - Desenvolvimento de Game em Linguagem Python](#701-projeto-1---desenvolvimento-de-game-em-linguagem-python)
 
 
 # 1. Introdução
@@ -1362,4 +1364,18 @@ Por exemplo, você pode usar uma expressão regular para verificar se uma string
 
 [Expressões regulares em Python](https://docs.python.org/3.9/library/re.html)
 
-[Commit]()
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/78c49547bdb9a5484b54e8be5ec87a7fd6bb9f0a)
+
+# 7. Projeto 1 e Avaliação 1
+
+## 7.01 Projeto 1 - Desenvolvimento de Game em Linguagem Python
+
+No primeiro projeto do curso você vai perceber que já sabe mais sobre Python do que imagina. Todo o conhecimento trazido para você nos capítulos anteriores será agora aplicado para desenvolver um programa de computador em Python, especificamente um jogo. Desenvolver um game é uma excelente forma de praticar programação.
+
+Acompanhe as aulas na sequência. Os scripts estão ao final do capítulo.
+
+E sete capítulo traz ainda a primeira avaliação do curso e sendo aprovado você recebe o certificado de nível introdutório.
+
+Siga todas as instruções sempre com muita atenção. Bons estudos.
+
+[commit]()
