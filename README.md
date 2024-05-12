@@ -149,6 +149,7 @@
   - [7.09 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Construção do Game - Parte 5/5](#709-projeto-1---desenvolvimento-de-game-em-linguagem-python---construção-do-game---parte-55)
   - [7.10 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Construção do Game - Conclusão](#710-projeto-1---desenvolvimento-de-game-em-linguagem-python---construção-do-game---conclusão)
   - [7.11 Arquivos do capítulo](#711-arquivos-do-capítulo)
+  - [7.12 Avaliação final](#712-avaliação-final)
 
 
 # 1. Introdução
@@ -1463,5 +1464,11 @@ Siga todas as instruções sempre com muita atenção. Bons estudos.
 ## 7.11 Arquivos do capítulo
 
 [Arquivo](./Cap07/33-Cap07.zip)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/a92eca3ddcbe29ea966b822da022f91337444b19)
+
+## 7.12 Avaliação final
+
+[Certificado](./certificate-fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science-63eafc3b52d7b4001a07e6f5.pdf)
 
 [Commit]()
