@@ -62,16 +62,18 @@ def game():
             chances -= 1
             letras_erradas.append(tentativa)
 
+        if "_" not in letras_descobertas:
+            print("\nVocê venceu, a palavra era:", palavra)
+            break
 
         limpa_tela()
         print("\nBem-vindo(a) ao jogo da forca!")
         print("\nAdivinhe a palavra abaixo:\n")
 
+    # condicional
+    if "_" in letras_descobertas:
+        print("\nVocê perdeu, a palavra era:", palavra)
 
-
-    print(letras_descobertas)
-
-
-
-
-game()
+if __name__ == "__main__":
+    game()
+    print("\nParabéns. Você está programando em Python!")
