@@ -135,6 +135,7 @@
   - [6.26 Lab 3 - Cuidados ao usar o ChatGPT com Python](#626-lab-3---cuidados-ao-usar-o-chatgpt-com-python)
   - [6.27 Lab 3 - Usando ChatGPT para filtrar pontuação e acentos em texto com expressões regulares em Python](#627-lab-3---usando-chatgpt-para-filtrar-pontuação-e-acentos-em-texto-com-expressões-regulares-em-python)
   - [6.28 Lista de Exercícios](#628-lista-de-exercícios)
+  - [6.29 Arquivos do capítulo](#629-arquivos-do-capítulo)
 
 
 # 1. Introdução
@@ -1347,5 +1348,11 @@ Por exemplo, você pode usar uma expressão regular para verificar se uma string
 ## 6.28 Lista de Exercícios
 
 [Jupyter Notebook](./Cap06/nootebook/DSA-Python-Cap06-Exercicios.ipynb)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/7e7677a1fc6dc5072c2f493d726235763f959aa4)
+
+## 6.29 Arquivos do capítulo
+
+[Arquivos](./Cap06/38-Cap06.zip)
 
 [Commit]()
