@@ -141,6 +141,7 @@
   - [7.01 Projeto 1 - Desenvolvimento de Game em Linguagem Python](#701-projeto-1---desenvolvimento-de-game-em-linguagem-python)
   - [7.02 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Visão Geral](#702-projeto-1---desenvolvimento-de-game-em-linguagem-python---visão-geral)
   - [7.03 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Executando as duas versões do Game](#703-projeto-1---desenvolvimento-de-game-em-linguagem-python---executando-as-duas-versões-do-game)
+  - [7.04 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Criando Pseudocódigo com ChatGPt](#704-projeto-1---desenvolvimento-de-game-em-linguagem-python---criando-pseudocódigo-com-chatgpt)
 
 
 # 1. Introdução
@@ -1391,5 +1392,27 @@ Siga todas as instruções sempre com muita atenção. Bons estudos.
 ## 7.03 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Executando as duas versões do Game
 
 [Vídeo](https://youtu.be/2PPLFALnxqY)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/5d8eca2dd7e4d1249a78dd773bbf6eed66d30d75)
+
+## 7.04 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Criando Pseudocódigo com ChatGPt
+
+**Pseudocódigo criado pelo ChatGPT:**
+
+1. Definir a lista de palavras possíveis
+2. Escolher uma palavra aleatória da lista
+3. Criar uma lista vazia para armazenar as letras adivinhadas
+4. Definir o número máximo de tentativas permitidas
+5. Enquanto o número de tentativas não atingir o máximo:
+   1. Mostrar a palavra como uma série de underscores, como as letradas adivinhadas preenchidas nos espaços corretos
+   2. Pedir ao jogador que adivinhe uma letra
+   3. Verificar se a letra adivinhada está na palavra
+   4. Se a letra adivinhada está na palavra, adicionar a letra à lista de letras adivinhadas e atualizar a exibição da palavra
+   5. Se a letra adivinhada não está na palavra, reduzir o número de tentativas restantes e exibir a mensagem "Letra incorreta. Tentativas restantes: [número de tentativas restantes]
+   6. Verificar se todas as letras foram adivinhadas
+   7. Se todas as letras foram adivinhadas, exibir a mensagem "Você venceu!"
+   8. Se o número de tentativas restantes chegar a zero, exibir a mensagem "Você perdeu. A palavra era [palavra escolhida]" e encerrar o jogo.
+
+[Vídeo](https://youtu.be/lOJADqE-SNk)
 
 [Commit]()
