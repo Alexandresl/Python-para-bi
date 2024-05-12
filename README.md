@@ -140,6 +140,7 @@
 - [7. Projeto 1 e Avaliação 1](#7-projeto-1-e-avaliação-1)
   - [7.01 Projeto 1 - Desenvolvimento de Game em Linguagem Python](#701-projeto-1---desenvolvimento-de-game-em-linguagem-python)
   - [7.02 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Visão Geral](#702-projeto-1---desenvolvimento-de-game-em-linguagem-python---visão-geral)
+  - [7.03 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Executando as duas versões do Game](#703-projeto-1---desenvolvimento-de-game-em-linguagem-python---executando-as-duas-versões-do-game)
 
 
 # 1. Introdução
@@ -1384,5 +1385,11 @@ Siga todas as instruções sempre com muita atenção. Bons estudos.
 ## 7.02 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Visão Geral
 
 [Vídeo](https://youtu.be/-0WvuOvw1F0)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/a22569e5f90e2b5405d8cd58a06f2ca3df2ac4f2)
+
+## 7.03 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Executando as duas versões do Game
+
+[Vídeo](https://youtu.be/2PPLFALnxqY)
 
 [Commit]()
