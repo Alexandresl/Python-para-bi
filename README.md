@@ -150,6 +150,8 @@
   - [7.10 Projeto 1 - Desenvolvimento de Game em Linguagem Python - Construção do Game - Conclusão](#710-projeto-1---desenvolvimento-de-game-em-linguagem-python---construção-do-game---conclusão)
   - [7.11 Arquivos do capítulo](#711-arquivos-do-capítulo)
   - [7.12 Avaliação final](#712-avaliação-final)
+- [8. Linguagem Python Nível Básico - Introdução à Programação Orientada a Objetos](#8-linguagem-python-nível-básico---introdução-à-programação-orientada-a-objetos)
+  - [8.01 Introdução](#801-introdução)
 
 
 # 1. Introdução
@@ -1470,5 +1472,13 @@ Siga todas as instruções sempre com muita atenção. Bons estudos.
 ## 7.12 Avaliação final
 
 [Certificado](./certificate-fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science-63eafc3b52d7b4001a07e6f5.pdf)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/35b1663f026b324b1d2d94967f4a07dccf20f060)
+
+# 8. Linguagem Python Nível Básico - Introdução à Programação Orientada a Objetos
+
+## 8.01 Introdução
+
+Seja bem-vindo(a) ao Capítulo 8. Este capítulo é uma introdução a um importante paradigma de programação de computadores, a Programação Orientada a Objetos.
 
 [Commit]()
