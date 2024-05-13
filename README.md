@@ -155,6 +155,7 @@
   - [8.02 O que é Programação Orientada a Objetos?](#802-o-que-é-programação-orientada-a-objetos)
   - [8.03 O que é uma classe em programação orientada a objetos?](#803-o-que-é-uma-classe-em-programação-orientada-a-objetos)
   - [8.04 Criando uma Classe em Python](#804-criando-uma-classe-em-python)
+  - [8.05 Instância da Classe, Métodos e Atributos em Python](#805-instância-da-classe-métodos-e-atributos-em-python)
 
 
 # 1. Introdução
@@ -1509,5 +1510,11 @@ POO também é o paradigma de programação comumente usado para construir algor
 ## 8.04 Criando uma Classe em Python
 
 [Vídeo](https://youtu.be/oHvF3S22anw)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/09f017634ff9d22ff9a4cbb16b3f97967547495c)
+
+## 8.05 Instância da Classe, Métodos e Atributos em Python
+
+[Vídeo](https://youtu.be/lojw7dzVT3Q)
 
 [Commit]()
