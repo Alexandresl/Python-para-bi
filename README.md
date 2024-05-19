@@ -159,6 +159,7 @@
   - [8.06 Em Python, Todo é objeto!](#806-em-python-todo-é-objeto)
   - [8.07 Manipulando atributos de objetos em Python](#807-manipulando-atributos-de-objetos-em-python)
   - [8.08 Trabalhando com métodos de classes em Python - Parte 1/2](#808-trabalhando-com-métodos-de-classes-em-python---parte-12)
+  - [8.09 Trabalhando com métodos de classes em Python - Parte 2/2](#809-trabalhando-com-métodos-de-classes-em-python---parte-22)
 
 
 # 1. Introdução
@@ -1542,5 +1543,11 @@ POO também é o paradigma de programação comumente usado para construir algor
 [Jupyter Notebook](./Cap08/notebook/DSA-Python-Cap08-03-Metodos.ipynb)
 
 [Vídeo](https://youtu.be/xMb9eeTqrwY)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/af2c4a9d34bc7909ad67707d54bad565b8076581)
+
+## 8.09 Trabalhando com métodos de classes em Python - Parte 2/2
+
+[Vídeo](https://youtu.be/uZyTlHglBKI)
 
 [Commit]()
