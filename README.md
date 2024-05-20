@@ -160,6 +160,7 @@
   - [8.07 Manipulando atributos de objetos em Python](#807-manipulando-atributos-de-objetos-em-python)
   - [8.08 Trabalhando com métodos de classes em Python - Parte 1/2](#808-trabalhando-com-métodos-de-classes-em-python---parte-12)
   - [8.09 Trabalhando com métodos de classes em Python - Parte 2/2](#809-trabalhando-com-métodos-de-classes-em-python---parte-22)
+  - [8.10 Trabalhando com herança de classes em Python - parte 1/2](#810-trabalhando-com-herança-de-classes-em-python---parte-12)
 
 
 # 1. Introdução
@@ -1549,5 +1550,13 @@ POO também é o paradigma de programação comumente usado para construir algor
 ## 8.09 Trabalhando com métodos de classes em Python - Parte 2/2
 
 [Vídeo](https://youtu.be/uZyTlHglBKI)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/520799a47b8b7fbac4532b7b124f78bb03526b24)
+
+## 8.10 Trabalhando com herança de classes em Python - parte 1/2
+
+[Jupyter Notebook](./Cap08/notebook/DSA-Python-Cap08-04-Herança.ipynb)
+
+[Vídeo](https://youtu.be/L1gDmwbX2SY)
 
 [Commit]()
