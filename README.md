@@ -162,6 +162,7 @@
   - [8.09 Trabalhando com métodos de classes em Python - Parte 2/2](#809-trabalhando-com-métodos-de-classes-em-python---parte-22)
   - [8.10 Trabalhando com herança de classes em Python - Parte 1/2](#810-trabalhando-com-herança-de-classes-em-python---parte-12)
   - [8.11 Trabalhando com herança de classes em Python - Parte 2/2](#811-trabalhando-com-herança-de-classes-em-python---parte-22)
+  - [8.12 Trabalhando com polimorfismo de classes em Python - Parte 1/2](#812-trabalhando-com-polimorfismo-de-classes-em-python---parte-12)
 
 
 # 1. Introdução
@@ -1565,5 +1566,13 @@ POO também é o paradigma de programação comumente usado para construir algor
 ## 8.11 Trabalhando com herança de classes em Python - Parte 2/2
 
 [Vídeo](https://youtu.be/MOjX5_uXjQE)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/8e74a3ca12745a160577b7182db4b41a84ec92f7)
+
+## 8.12 Trabalhando com polimorfismo de classes em Python - Parte 1/2
+
+[Jupyter Notebook](./Cap08/notebook/DSA-Python-Cap08-05-Polimorfismo.ipynb)
+
+[Vídeo](https://youtu.be/V9ZlA0U2CZo)
 
 [Commit]()
