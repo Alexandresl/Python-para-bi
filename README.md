@@ -169,6 +169,7 @@
 - [9. Linguagem Python Nível Básico - Matemática e Manipulação de Matrizes com NumPy](#9-linguagem-python-nível-básico---matemática-e-manipulação-de-matrizes-com-numpy)
   - [9.01 Introdução](#901-introdução)
   - [9.02 Solução do Lab 4 - Desenvolvimento de Game com Programação Orientada a Objetos em Python - Parte 1/3](#902-solução-do-lab-4---desenvolvimento-de-game-com-programação-orientada-a-objetos-em-python---parte-13)
+  - [9.03 Solução do Lab 4 - Desenvolvimento de Game com Programação Orientada a Objetos em Python - Parte 2/3](#903-solução-do-lab-4---desenvolvimento-de-game-com-programação-orientada-a-objetos-em-python---parte-23)
 
 
 # 1. Introdução
@@ -1614,5 +1615,11 @@ Seja bem-vindo(a) ao Capítulo 9. Neste capítulo vam os trazer para você uma i
 [Arquivo](./Cap09/Lab4-v1.py)
 
 [Vídeo](https://youtu.be/VbPwsE80lkQ)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/bdf3baef7cb683c7c9e2580dab5ae1bfcd55eca7)
+
+## 9.03 Solução do Lab 4 - Desenvolvimento de Game com Programação Orientada a Objetos em Python - Parte 2/3
+
+[Vídeo](https://youtu.be/meagk_llHAs)
 
 [Commit]()
