@@ -172,6 +172,7 @@
   - [9.03 Solução do Lab 4 - Desenvolvimento de Game com Programação Orientada a Objetos em Python - Parte 2/3](#903-solução-do-lab-4---desenvolvimento-de-game-com-programação-orientada-a-objetos-em-python---parte-23)
   - [9.04 Solução do Lab 4 - Desenvolvimento de Game com Programação Orientada a Objetos em Python - Parte 3/3](#904-solução-do-lab-4---desenvolvimento-de-game-com-programação-orientada-a-objetos-em-python---parte-33)
   - [9.05 Introdução ao NumPy (Numerical Python)](#905-introdução-ao-numpy-numerical-python)
+  - [9.06 Criando Arrays NumPy](#906-criando-arrays-numpy)
 
 
 # 1. Introdução
@@ -1637,5 +1638,11 @@ Seja bem-vindo(a) ao Capítulo 9. Neste capítulo vam os trazer para você uma i
 [Jupyter Notebook](./Cap09/notebook/DSA-Python-Cap09-NumPy.ipynb)
 
 [Vídeo](https://youtu.be/WDyuvXK52QA)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/c7e4e1a05559cabd2ff7f1bfcd6566324eb31f87)
+
+## 9.06 Criando Arrays NumPy
+
+[Vídeo](https://youtu.be/46iIWL1_l_U)
 
 [Commit]()
