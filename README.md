@@ -168,6 +168,7 @@
   - [8.15 Arquivos do capítulo](#815-arquivos-do-capítulo)
 - [9. Linguagem Python Nível Básico - Matemática e Manipulação de Matrizes com NumPy](#9-linguagem-python-nível-básico---matemática-e-manipulação-de-matrizes-com-numpy)
   - [9.01 Introdução](#901-introdução)
+  - [9.02 Solução do Lab 4 - Desenvolvimento de Game com Programação Orientada a Objetos em Python - Parte 1/3](#902-solução-do-lab-4---desenvolvimento-de-game-com-programação-orientada-a-objetos-em-python---parte-13)
 
 
 # 1. Introdução
@@ -1605,5 +1606,13 @@ POO também é o paradigma de programação comumente usado para construir algor
 ## 9.01 Introdução
 
 Seja bem-vindo(a) ao Capítulo 9. Neste capítulo vam os trazer para você uma introdução a um dos mais importante pacotes Python para Análise de Dados, Ciência de Dados, Machine Learning e Inteligência Artificial, o NumPy.
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/ff829899b8e397f8623c05908e80eaeabbd3f879)
+
+## 9.02 Solução do Lab 4 - Desenvolvimento de Game com Programação Orientada a Objetos em Python - Parte 1/3
+
+[Arquivo](./Cap09/Lab4-v1.py)
+
+[Vídeo](https://youtu.be/VbPwsE80lkQ)
 
 [Commit]()
