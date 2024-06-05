@@ -171,6 +171,7 @@
   - [9.02 Solução do Lab 4 - Desenvolvimento de Game com Programação Orientada a Objetos em Python - Parte 1/3](#902-solução-do-lab-4---desenvolvimento-de-game-com-programação-orientada-a-objetos-em-python---parte-13)
   - [9.03 Solução do Lab 4 - Desenvolvimento de Game com Programação Orientada a Objetos em Python - Parte 2/3](#903-solução-do-lab-4---desenvolvimento-de-game-com-programação-orientada-a-objetos-em-python---parte-23)
   - [9.04 Solução do Lab 4 - Desenvolvimento de Game com Programação Orientada a Objetos em Python - Parte 3/3](#904-solução-do-lab-4---desenvolvimento-de-game-com-programação-orientada-a-objetos-em-python---parte-33)
+  - [9.05 Introdução ao NumPy (Numerical Python)](#905-introdução-ao-numpy-numerical-python)
 
 
 # 1. Introdução
@@ -1628,5 +1629,13 @@ Seja bem-vindo(a) ao Capítulo 9. Neste capítulo vam os trazer para você uma i
 ## 9.04 Solução do Lab 4 - Desenvolvimento de Game com Programação Orientada a Objetos em Python - Parte 3/3
 
 [Vídeo](https://youtu.be/Otnvz6qb2EA)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/855c82c604391800b48b46670e4ad11994d8a1e2)
+
+## 9.05 Introdução ao NumPy (Numerical Python)
+
+[Jupyter Notebook](./Cap09/notebook/DSA-Python-Cap09-NumPy.ipynb)
+
+[Vídeo](https://youtu.be/WDyuvXK52QA)
 
 [Commit]()
