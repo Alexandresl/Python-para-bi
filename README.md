@@ -173,6 +173,7 @@
   - [9.04 Solução do Lab 4 - Desenvolvimento de Game com Programação Orientada a Objetos em Python - Parte 3/3](#904-solução-do-lab-4---desenvolvimento-de-game-com-programação-orientada-a-objetos-em-python---parte-33)
   - [9.05 Introdução ao NumPy (Numerical Python)](#905-introdução-ao-numpy-numerical-python)
   - [9.06 Criando Arrays NumPy](#906-criando-arrays-numpy)
+  - [9.07 Indexação em Arrays NumPy](#907-indexação-em-arrays-numpy)
 
 
 # 1. Introdução
@@ -1644,5 +1645,11 @@ Seja bem-vindo(a) ao Capítulo 9. Neste capítulo vam os trazer para você uma i
 ## 9.06 Criando Arrays NumPy
 
 [Vídeo](https://youtu.be/46iIWL1_l_U)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/c521062d15b8fb6bccbd903d458bd8a0cdcb1718)
+
+## 9.07 Indexação em Arrays NumPy
+
+[Vídeo](https://youtu.be/A77bnd_CLUg)
 
 [Commit]()
