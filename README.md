@@ -174,6 +174,7 @@
   - [9.05 Introdução ao NumPy (Numerical Python)](#905-introdução-ao-numpy-numerical-python)
   - [9.06 Criando Arrays NumPy](#906-criando-arrays-numpy)
   - [9.07 Indexação em Arrays NumPy](#907-indexação-em-arrays-numpy)
+  - [9.08 Trabalhando com Funções NumPy - Parte 1/2](#908-trabalhando-com-funções-numpy---parte-12)
 
 
 # 1. Introdução
@@ -1651,5 +1652,11 @@ Seja bem-vindo(a) ao Capítulo 9. Neste capítulo vam os trazer para você uma i
 ## 9.07 Indexação em Arrays NumPy
 
 [Vídeo](https://youtu.be/A77bnd_CLUg)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/92c838d83a48527841f467dda334380c144b7c72)
+
+## 9.08 Trabalhando com Funções NumPy - Parte 1/2
+
+[Vídeo](https://youtu.be/C6vOZRkvdD8)
 
 [Commit]()
