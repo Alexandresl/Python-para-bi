@@ -165,6 +165,7 @@
   - [8.12 Trabalhando com polimorfismo de classes em Python - Parte 1/2](#812-trabalhando-com-polimorfismo-de-classes-em-python---parte-12)
   - [8.13 Trabalhando com polimorfismo de classes em Python - Parte 2/2](#813-trabalhando-com-polimorfismo-de-classes-em-python---parte-22)
   - [8.14 Lab 4 (Desafio) - Desenvolvimento de Game com Programação Orientada a Objetos](#814-lab-4-desafio---desenvolvimento-de-game-com-programação-orientada-a-objetos)
+  - [8.15 Arquivos do capítulo](#815-arquivos-do-capítulo)
 
 
 # 1. Introdução
@@ -1588,5 +1589,11 @@ POO também é o paradigma de programação comumente usado para construir algor
 ## 8.14 Lab 4 (Desafio) - Desenvolvimento de Game com Programação Orientada a Objetos
 
 [Arquivo](//Cap08/Lab4-v1.py)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/3a7c5cfe516faacfee5006fe294de3a0ceca64bb)
+
+## 8.15 Arquivos do capítulo
+
+[Arquivo](./Cap08/33-Cap08.zip)
 
 [Commit]()
