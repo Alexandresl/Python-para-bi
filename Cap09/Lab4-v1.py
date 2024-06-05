@@ -176,5 +176,5 @@ def main():
     print('\nFoi bom jogar com você! Agora vá estudar!\n')
     
     # Executa o program
-    if __name__ == "__main":
-        main()
+if __name__ == "__main__":
+    main()
