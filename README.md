@@ -178,6 +178,7 @@
   - [9.09 Trabalhando com Funções NumPy - Parte 2/2](#909-trabalhando-com-funções-numpy---parte-22)
   - [9.10 Manipulando Matrizes NumPy - Parte 1/2](#910-manipulando-matrizes-numpy---parte-12)
   - [9.11 Manipulando Matrizes NumPy - Parte 2/2](#911-manipulando-matrizes-numpy---parte-22)
+  - [9.12 Manipulando Objetos de 3 e 4 Dimensões com NumPy](#912-manipulando-objetos-de-3-e-4-dimensões-com-numpy)
 
 
 # 1. Introdução
@@ -1679,5 +1680,11 @@ Seja bem-vindo(a) ao Capítulo 9. Neste capítulo vam os trazer para você uma i
 ## 9.11 Manipulando Matrizes NumPy - Parte 2/2
 
 [Vídeo](https://youtu.be/mXiq4mmYR1M)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/6a1639874d35f8e4def7c4733a8d1b24b54e9cc0)
+
+## 9.12 Manipulando Objetos de 3 e 4 Dimensões com NumPy
+
+[Vídeo](https://youtu.be/NVVDOma3RLo)
 
 [Commit]()
