@@ -181,6 +181,7 @@
   - [9.12 Manipulando Objetos de 3 e 4 Dimensões com NumPy](#912-manipulando-objetos-de-3-e-4-dimensões-com-numpy)
   - [9.13 Manipulando Arquivos com NumPy](#913-manipulando-arquivos-com-numpy)
   - [9.14 Análise estatística básica com NumPy - Média](#914-análise-estatística-básica-com-numpy---média)
+  - [9.15 Análise estatística básica com NumPy - Desvio Padrão](#915-análise-estatística-básica-com-numpy---desvio-padrão)
 
 
 # 1. Introdução
@@ -1700,5 +1701,11 @@ Seja bem-vindo(a) ao Capítulo 9. Neste capítulo vam os trazer para você uma i
 ## 9.14 Análise estatística básica com NumPy - Média
 
 [Vídeo](https://youtu.be/-bwe6_Bnv7s)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/e6edcf28fd9e9d4f8538fa4625aae645626a36b6)
+
+## 9.15 Análise estatística básica com NumPy - Desvio Padrão
+
+[Vídeo](https://youtu.be/QOaFscvhDPM)
 
 [Commit]()
