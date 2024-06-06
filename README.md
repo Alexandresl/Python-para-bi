@@ -176,6 +176,7 @@
   - [9.07 Indexação em Arrays NumPy](#907-indexação-em-arrays-numpy)
   - [9.08 Trabalhando com Funções NumPy - Parte 1/2](#908-trabalhando-com-funções-numpy---parte-12)
   - [9.09 Trabalhando com Funções NumPy - Parte 2/2](#909-trabalhando-com-funções-numpy---parte-22)
+  - [9.10 Manipulando Matrizes NumPy - Parte 1/2](#910-manipulando-matrizes-numpy---parte-12)
 
 
 # 1. Introdução
@@ -1665,5 +1666,11 @@ Seja bem-vindo(a) ao Capítulo 9. Neste capítulo vam os trazer para você uma i
 ## 9.09 Trabalhando com Funções NumPy - Parte 2/2
 
 [Vídeo](https://youtu.be/5QUmqurqo9s)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/0a3541c074c0c002eee138ff1c68d467eeaf0fff)
+
+## 9.10 Manipulando Matrizes NumPy - Parte 1/2
+
+[Vídeo](https://youtu.be/ey-ry1uYntM)
 
 [Commit]()
