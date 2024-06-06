@@ -182,6 +182,7 @@
   - [9.13 Manipulando Arquivos com NumPy](#913-manipulando-arquivos-com-numpy)
   - [9.14 Análise estatística básica com NumPy - Média](#914-análise-estatística-básica-com-numpy---média)
   - [9.15 Análise estatística básica com NumPy - Desvio Padrão](#915-análise-estatística-básica-com-numpy---desvio-padrão)
+  - [9.16 Análise estatística básica com NumPy - Variância](#916-análise-estatística-básica-com-numpy---variância)
 
 
 # 1. Introdução
@@ -1707,5 +1708,11 @@ Seja bem-vindo(a) ao Capítulo 9. Neste capítulo vam os trazer para você uma i
 ## 9.15 Análise estatística básica com NumPy - Desvio Padrão
 
 [Vídeo](https://youtu.be/QOaFscvhDPM)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/1294ead8e3c8e5e3bcb07b7813ca278d561457fd)
+
+## 9.16 Análise estatística básica com NumPy - Variância
+
+[Vídeo](https://youtu.be/GvHBG78uTM0)
 
 [Commit]()
