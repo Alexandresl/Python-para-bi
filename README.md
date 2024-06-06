@@ -180,6 +180,7 @@
   - [9.11 Manipulando Matrizes NumPy - Parte 2/2](#911-manipulando-matrizes-numpy---parte-22)
   - [9.12 Manipulando Objetos de 3 e 4 Dimensões com NumPy](#912-manipulando-objetos-de-3-e-4-dimensões-com-numpy)
   - [9.13 Manipulando Arquivos com NumPy](#913-manipulando-arquivos-com-numpy)
+  - [9.14 Análise estatística básica com NumPy - Média](#914-análise-estatística-básica-com-numpy---média)
 
 
 # 1. Introdução
@@ -1693,5 +1694,11 @@ Seja bem-vindo(a) ao Capítulo 9. Neste capítulo vam os trazer para você uma i
 ## 9.13 Manipulando Arquivos com NumPy
 
 [Vídeo](https://youtu.be/w9jutWe4Fk4)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/b2dd23f36be8807ddc927b14cd1fdf320dc412c3)
+
+## 9.14 Análise estatística básica com NumPy - Média
+
+[Vídeo](https://youtu.be/-bwe6_Bnv7s)
 
 [Commit]()
