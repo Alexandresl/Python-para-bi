@@ -183,6 +183,7 @@
   - [9.14 Análise estatística básica com NumPy - Média](#914-análise-estatística-básica-com-numpy---média)
   - [9.15 Análise estatística básica com NumPy - Desvio Padrão](#915-análise-estatística-básica-com-numpy---desvio-padrão)
   - [9.16 Análise estatística básica com NumPy - Variância](#916-análise-estatística-básica-com-numpy---variância)
+  - [9.17 Quando usar Desvio Padrão e Variância?](#917-quando-usar-desvio-padrão-e-variância)
 
 
 # 1. Introdução
@@ -1714,5 +1715,15 @@ Seja bem-vindo(a) ao Capítulo 9. Neste capítulo vam os trazer para você uma i
 ## 9.16 Análise estatística básica com NumPy - Variância
 
 [Vídeo](https://youtu.be/GvHBG78uTM0)
+
+[Commit](https://github.com/Alexandresl/Python-para-bi/tree/df20a62e0ee8458941b1a97d45214f141b8e0fff)
+
+## 9.17 Quando usar Desvio Padrão e Variância?
+
+Tanto a variância quanto o desvio padrão são medidas úteis de dispersão e podem ser usados em conjunto para descrever a distribuição de um conjunto de dados.
+
+A variância é uma medida quadrática e pode ser útil para calcular outras estatísticas, como o desvio padrão. No entanto, como a variância é uma medida quadrática, seus valores são geralmente maiores do que os valores dos próprios dados, o que pode dificultar a interpretação. O desvio padrão é a raiz quadrada da variância e fornece uma medida de dispersão que tem a mesma unidade de medida que os próprios dados, facilitando a interpretação e a comparação com outros valores.
+
+Em geral, o desvio padrão é mais comumente usado do que a variância, principalmente porque é mais fácil de interpretar. No entanto, a escolha entre o uso da variância ou do desvio padrão depende do contexto e do objetivo da análise. Em alguns casos, a variância pode ser uma medida mais apropriada, como quando se pretende calcular outras estatísticas, como a covariância ou o coeficiente de correlação. Em outros casos, o desvio padrão pode ser uma medida mais apropriada, como quando se pretende avaliar a consistência dos dados em relação à média e comparar diferentes conjuntos de dados
 
 [Commit]()
